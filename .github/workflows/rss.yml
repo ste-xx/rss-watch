@@ -64,18 +64,26 @@ jobs:
          ${{ steps.ph.outputs.state }}
          EOF
          
-     # - id: ghuserprojectsstate
-     #   run: echo ::set-output name=state::$(cat ghuserprojects.state.json)
+      - id: ghuserprojectsstate
+        run: echo ::set-output name=state::$(cat ghuserprojects.state.json)
       - uses: ste-xx/gh-user-projects-rss-action@main
         with:
-          state: |
-            {
-            }
-          # state: ${{ steps.ghuserprojects.outputs.state }}
+          state: ${{ steps.ghuserprojectsstate.outputs.state }}
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ghuserprojects.json
           names: |
             [
-              "awslabs"
+              "awslabs",
+              "aws",
+              "google",
+              "GoogleChrome",
+              "GoogleChromeLabs"
+              "facebook",
+              "microsoft",
+              "Netflix",
+              "tailwindlabs",
+              "github",
+              "vercel",
+              "actions"
             ]
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
