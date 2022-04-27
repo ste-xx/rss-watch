@@ -1,0 +1,22 @@
+name: RSS Watch
+
+on:
+  schedule:
+    - cron: "40 0 * * *"
+  workflow_dispatch:
+  push:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ste-xx/hackernews-to-rss-action@main
+        with:
+          input: | 
+            {
+            }
+        id: hn
+      - run: echo "${{ steps.hn.outputs.jsonFeed }}" > hn.json
+      - run: echo "${{ steps.hn.outputs.state }}" > hn.state.json
+      - uses: EndBug/add-and-commit@v9
