@@ -46,14 +46,11 @@ jobs:
          EOF
      
      
-      #- id: phstate
-      #  run: echo ::set-output name=state::$(cat phstate.state.json)
+      - id: phstate
+        run: echo ::set-output name=state::$(cat phstate.state.json)
       - uses: ste-xx/producthunt-to-rss-action@main
         with:
-          # state: ${{ steps.phstate.outputs.state }}
-          state: |
-            {
-            }
+          state: ${{ steps.phstate.outputs.state }}
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
           client_id: ${{secrets.PH_CLIENT_ID}}
           client_secret: ${{secrets.PH_CLIENT_SECRET}}
