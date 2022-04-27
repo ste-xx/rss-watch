@@ -55,8 +55,8 @@ jobs:
             {
             }
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
-          client_id: ${{secrets.ph_client_id}}
-          client_secret: ${{secrets.ph_client_secret}}
+          client_id: ${{secrets.PH_CLIENT_ID}}
+          client_secret: ${{secrets.PH_CLIENT_SECRET}}
         id: ph
       - run: | 
           cat <<EOF > ph.json
