@@ -64,4 +64,29 @@ jobs:
          ${{ steps.ph.outputs.state }}
          EOF
          
+     # - id: ghuserstate
+     #   run: echo ::set-output name=state::$(cat ghuserstate.state.json)
+      - uses: ste-xx/gh-user-projects-rss-action@main
+        with:
+          state: |
+            {
+            }
+          # state: ${{ steps.ghuser.outputs.state }}
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ghuser.json
+          names: |
+            [
+              "awslabs"
+            ]
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: ghuser
+      - run: | 
+          cat <<EOF > ghuser.json
+          ${{ steps.ghuser.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > ghuser.state.json
+         ${{ steps.ghuser.outputs.state }}
+         EOF
+         
       - uses: EndBug/add-and-commit@v9
