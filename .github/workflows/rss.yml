@@ -17,6 +17,6 @@ jobs:
             {
             }
         id: hn
-      - run: echo "${{ steps.hn.outputs.jsonFeed }}" > hn.json
-      - run: echo "${{ steps.hn.outputs.state }}" > hn.state.json
+      - run: echo ${{ steps.hn.outputs.jsonFeed }} > hn.json
+      - run: echo ${{ steps.hn.outputs.state }} > hn.state.json
       - uses: EndBug/add-and-commit@v9
