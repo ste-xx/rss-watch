@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  report:
+  feed:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,6 +15,7 @@ jobs:
           state: | 
             {
             }
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json
         id: hn
       - run: | 
           cat <<EOF > hn.json
