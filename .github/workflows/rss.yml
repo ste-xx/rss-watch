@@ -76,7 +76,7 @@ jobs:
               "aws",
               "google",
               "GoogleChrome",
-              "GoogleChromeLabs"
+              "GoogleChromeLabs",
               "facebook",
               "facebookresearch",
               "microsoft",
