@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get version
-        id: hnstate
+      
+      - id: hnstate
         run: echo ::set-output name=state::$(cat hn.state.json)
-        
       - uses: ste-xx/hackernews-to-rss-action@main
         with:
           state: ${{ steps.hnstate.outputs.state }}
@@ -27,5 +26,24 @@ jobs:
          cat <<EOF > hn.state.json
          ${{ steps.hn.outputs.state }}
          EOF
-          
+     
+      #- id: rprogrammingstate
+      #  run: echo ::set-output name=state::$(cat rprogramming.state.json)
+      - uses: ste-xx/hackernews-to-rss-action@main
+        with:
+          state: |
+            {
+            }
+          # state: ${{ steps.rprogrammingstate.outputs.state }}
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
+        id: rprogramming
+      - run: | 
+          cat <<EOF > rprogramming.json
+          ${{ steps.rprogramming.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > rprogramming.state.json
+         ${{ steps.rprogramming.outputs.state }}
+         EOF
+         
       - uses: EndBug/add-and-commit@v9
