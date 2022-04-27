@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get version
         id: hnstate
-        run: echo ::set-output name=state::$(cat hn.json)
+        run: echo ::set-output name=state::$(cat hn.state.json)
         
       - uses: ste-xx/hackernews-to-rss-action@main
         with:
