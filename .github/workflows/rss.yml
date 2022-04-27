@@ -78,6 +78,7 @@ jobs:
               "GoogleChrome",
               "GoogleChromeLabs"
               "facebook",
+              "facebookresearch",
               "microsoft",
               "Netflix",
               "tailwindlabs",
