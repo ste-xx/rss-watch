@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Get version
+        id: hnstate
+        run: echo ::set-output name=state::$(cat hn.json)
+        
       - uses: ste-xx/hackernews-to-rss-action@main
         with:
-          state: | 
-            {
-            }
+          state: ${{ steps.hnstate.outputs.state }}
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json
         id: hn
       - run: | 
