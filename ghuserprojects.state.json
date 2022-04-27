@@ -1,0 +1,72 @@
+{
+  "R_kgDOHPyd1w": {
+    "id": "R_kgDOHPyd1w",
+    "url": "https://github.com/awslabs/pgjdbc",
+    "created": 1651102875182,
+    "title": "awslabs: pgjdbc",
+    "content_text": "Postgresql JDBC Driver"
+  },
+  "R_kgDOHJTUBg": {
+    "id": "R_kgDOHJTUBg",
+    "url": "https://github.com/awslabs/aws-greengrass-labs-containerized-secure-tunneling",
+    "created": 1651102875182,
+    "title": "awslabs: aws-greengrass-labs-containerized-secure-tunneling",
+    "content_text": ""
+  },
+  "R_kgDOHIwpqw": {
+    "id": "R_kgDOHIwpqw",
+    "url": "https://github.com/awslabs/vivid-state-machine",
+    "created": 1651102875182,
+    "title": "awslabs: vivid-state-machine",
+    "content_text": "A cross-platform library for implementing state machines in C/C++ and vividly documenting them in UML."
+  },
+  "R_kgDOHIns3w": {
+    "id": "R_kgDOHIns3w",
+    "url": "https://github.com/awslabs/raf",
+    "created": 1651102875182,
+    "title": "awslabs: raf",
+    "content_text": ""
+  },
+  "R_kgDOHGuBTw": {
+    "id": "R_kgDOHGuBTw",
+    "url": "https://github.com/awslabs/aws-java-nio-spi-for-s3",
+    "created": 1651102875182,
+    "title": "awslabs: aws-java-nio-spi-for-s3",
+    "content_text": ""
+  },
+  "R_kgDOHE59mw": {
+    "id": "R_kgDOHE59mw",
+    "url": "https://github.com/awslabs/sageinspector",
+    "created": 1651102875182,
+    "title": "awslabs: sageinspector",
+    "content_text": "Inspect Amazon SageMaker resources. Easily."
+  },
+  "R_kgDOHDwlIw": {
+    "id": "R_kgDOHDwlIw",
+    "url": "https://github.com/awslabs/aws-virtual-kubelet",
+    "created": 1651102875182,
+    "title": "awslabs: aws-virtual-kubelet",
+    "content_text": ""
+  },
+  "R_kgDOHAsY9A": {
+    "id": "R_kgDOHAsY9A",
+    "url": "https://github.com/awslabs/aws-greengrass-labs-s3-file-uploader",
+    "created": 1651102875182,
+    "title": "awslabs: aws-greengrass-labs-s3-file-uploader",
+    "content_text": ""
+  },
+  "R_kgDOG_4-9A": {
+    "id": "R_kgDOG_4-9A",
+    "url": "https://github.com/awslabs/aws-automated-incident-response-and-forensics",
+    "created": 1651102875182,
+    "title": "awslabs: aws-automated-incident-response-and-forensics",
+    "content_text": ""
+  },
+  "R_kgDOG7I1UA": {
+    "id": "R_kgDOG7I1UA",
+    "url": "https://github.com/awslabs/aws-sdk-js-codemod",
+    "created": 1651102875182,
+    "title": "awslabs: aws-sdk-js-codemod",
+    "content_text": "Codemod scripts to update AWS SDK for JavaScript APIs."
+  }
+}
