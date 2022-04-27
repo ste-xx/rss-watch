@@ -44,5 +44,27 @@ jobs:
          cat <<EOF > rprogramming.state.json
          ${{ steps.rprogramming.outputs.state }}
          EOF
+     
+     
+      #- id: phstate
+      #  run: echo ::set-output name=state::$(cat phstate.state.json)
+      - uses: ste-xx/producthunt-to-rss-action@main
+        with:
+          # state: ${{ steps.phstate.outputs.state }}
+          state: |
+            {
+            }
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
+          client_id: ${{secrets.ph_client_id}}
+          client_secret: ${{secrets.ph_client_secret}}
+        id: ph
+      - run: | 
+          cat <<EOF > ph.json
+          ${{ steps.ph.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > ph.state.json
+         ${{ steps.ph.outputs.state }}
+         EOF
          
       - uses: EndBug/add-and-commit@v9
