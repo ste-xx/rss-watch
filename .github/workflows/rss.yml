@@ -29,12 +29,13 @@ jobs:
      
       #- id: rprogrammingstate
       #  run: echo ::set-output name=state::$(cat rprogramming.state.json)
-      - uses: ste-xx/hackernews-to-rss-action@main
+      - uses: ste-xx/reddit-to-rss-action@main
         with:
           state: |
             {
             }
           # state: ${{ steps.rprogrammingstate.outputs.state }}
+          topic: r/programming
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
         id: rprogramming
       - run: | 
