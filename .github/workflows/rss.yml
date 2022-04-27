@@ -27,16 +27,14 @@ jobs:
          ${{ steps.hn.outputs.state }}
          EOF
      
-      #- id: rprogrammingstate
-      #  run: echo ::set-output name=state::$(cat rprogramming.state.json)
+      - id: rprogrammingstate
+        run: echo ::set-output name=state::$(cat rprogramming.state.json)
       - uses: ste-xx/reddit-to-rss-action@main
         with:
-          state: |
-            {
-            }
-          # state: ${{ steps.rprogrammingstate.outputs.state }}
+          state: ${{ steps.rprogrammingstate.outputs.state }}
           topic: r/programming
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
+          title: r/programming
         id: rprogramming
       - run: | 
           cat <<EOF > rprogramming.json
