@@ -47,7 +47,7 @@ jobs:
      
      
       - id: phstate
-        run: echo ::set-output name=state::$(cat phstate.state.json)
+        run: echo ::set-output name=state::$(cat ph.state.json)
       - uses: ste-xx/producthunt-to-rss-action@main
         with:
           state: ${{ steps.phstate.outputs.state }}
