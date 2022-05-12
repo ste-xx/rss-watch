@@ -100,8 +100,15 @@
   "346167": {
     "id": "346167",
     "url": "https://www.producthunt.com/posts/zario?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1652369253014,
-    "title": "Zario (487)",
+    "created": 1652373289423,
+    "title": "Zario (504)",
     "content_text": "Digital balance, one challenge at a time"
+  },
+  "346173": {
+    "id": "346173",
+    "url": "https://www.producthunt.com/posts/nawvel?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1652373289423,
+    "title": "Nawvel (365)",
+    "content_text": "Discover resource collections & build your lifebook"
   }
 }
