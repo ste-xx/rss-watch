@@ -1,11 +1,4 @@
 {
-  "udcoq4": {
-    "id": "udcoq4",
-    "url": "https://reddit.com/r/programming/comments/udcoq4/the_worst_bug_ive_ever_worked_on_randomly_losing/",
-    "created": 1651699190441,
-    "title": "The worst bug I've ever worked on -- randomly losing our best players (1049)",
-    "content_text": ""
-  },
   "udru84": {
     "id": "udru84",
     "url": "https://reddit.com/r/programming/comments/udru84/how_can_i_get_an_information_security_team_to_see/",
@@ -142,36 +135,36 @@
   "ukptue": {
     "id": "ukptue",
     "url": "https://reddit.com/r/programming/comments/ukptue/ian_goodfellow_apples_director_of_machine/",
-    "created": 1652563112675,
+    "created": 1652566886677,
     "title": "Ian Goodfellow, Apple's Director of Machine Learning, Inventor of GAN, Resigns Due to Apple's Return to Office Work (6125)",
     "content_text": ""
   },
   "uky60b": {
     "id": "uky60b",
     "url": "https://reddit.com/r/programming/comments/uky60b/wordpress_sites_getting_hacked_within_seconds_of/",
-    "created": 1652563112675,
-    "title": "WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued (601)",
+    "created": 1652566886677,
+    "title": "WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued (607)",
     "content_text": ""
   },
   "ulhkby": {
     "id": "ulhkby",
     "url": "https://reddit.com/r/programming/comments/ulhkby/the_two_generals_problem/",
-    "created": 1652563112675,
-    "title": "The Two Generals Problem (842)",
+    "created": 1652566886677,
+    "title": "The Two Generals Problem (846)",
     "content_text": ""
   },
   "ulo7vw": {
     "id": "ulo7vw",
     "url": "https://reddit.com/r/programming/comments/ulo7vw/only_microsoft_can_give_open_source_the_gift_of/",
-    "created": 1652563112675,
-    "title": "Only Microsoft can give open source the gift of NTFS (1077)",
+    "created": 1652566886677,
+    "title": "Only Microsoft can give open source the gift of NTFS (1073)",
     "content_text": ""
   },
   "um7351": {
     "id": "um7351",
     "url": "https://reddit.com/r/programming/comments/um7351/do_developers_still_want_swag/",
-    "created": 1652563112675,
-    "title": "Do Developers Still Want Swag? (730)",
+    "created": 1652566886677,
+    "title": "Do Developers Still Want Swag? (728)",
     "content_text": ""
   },
   "umiu6e": {
@@ -184,50 +177,50 @@
   "umnppb": {
     "id": "umnppb",
     "url": "https://reddit.com/r/programming/comments/umnppb/lrvick_bought_the_expired_domain_name_for_the/",
-    "created": 1652563112675,
-    "title": "@lrvick bought the expired domain name for the 'foreach' NPM package maintainer. He now controls the package which 2.2m packages depend on. (1334)",
+    "created": 1652566886677,
+    "title": "@lrvick bought the expired domain name for the 'foreach' NPM package maintainer. He now controls the package which 2.2m packages depend on. (1335)",
     "content_text": ""
   },
   "un7yft": {
     "id": "un7yft",
     "url": "https://reddit.com/r/programming/comments/un7yft/the_regex/",
-    "created": 1652563112675,
-    "title": "The regex [,-.] (1436)",
+    "created": 1652566886677,
+    "title": "The regex [,-.] (1433)",
     "content_text": ""
   },
   "unig76": {
     "id": "unig76",
     "url": "https://reddit.com/r/programming/comments/unig76/nvidia_opensources_linux_driver/",
-    "created": 1652563112675,
-    "title": "NVIDIA open-sources Linux driver (2495)",
+    "created": 1652566886677,
+    "title": "NVIDIA open-sources Linux driver (2497)",
     "content_text": ""
   },
   "ungqzv": {
     "id": "ungqzv",
     "url": "https://reddit.com/r/programming/comments/ungqzv/why_i_quit_googles_webassembly_team_and_how_it/",
-    "created": 1652563112675,
-    "title": "Why I Quit Google’s WebAssembly Team, And How It Made Me Sick (860)",
+    "created": 1652566886677,
+    "title": "Why I Quit Google’s WebAssembly Team, And How It Made Me Sick (862)",
     "content_text": ""
   },
   "uo8c52": {
     "id": "uo8c52",
     "url": "https://reddit.com/r/programming/comments/uo8c52/eu_wants_online_age_verification_by_2024_possibly/",
-    "created": 1652563112675,
-    "title": "EU wants online age verification by 2024 possibly with digital ID (1765)",
+    "created": 1652566886677,
+    "title": "EU wants online age verification by 2024 possibly with digital ID (1766)",
     "content_text": ""
   },
   "uosey2": {
     "id": "uosey2",
     "url": "https://reddit.com/r/programming/comments/uosey2/the_apple_gpu_and_the_impossible_bug/",
-    "created": 1652563112675,
-    "title": "The Apple GPU and the Impossible Bug (1757)",
+    "created": 1652566886677,
+    "title": "The Apple GPU and the Impossible Bug (1755)",
     "content_text": ""
   },
   "upe67v": {
     "id": "upe67v",
     "url": "https://reddit.com/r/programming/comments/upe67v/nvidia_transitioning_to_official_opensource_linux/",
-    "created": 1652563112675,
-    "title": "NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver (1324)",
+    "created": 1652566886677,
+    "title": "NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver (1407)",
     "content_text": ""
   }
 }
