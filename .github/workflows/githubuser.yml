@@ -35,14 +35,14 @@ jobs:
             ]
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        id: run
+        id: rss
       - run: | 
           cat <<EOF > ghuserprojects.json
-          ${{ steps.run.outputs.jsonFeed }}
+          ${{ steps.rss.outputs.jsonFeed }}
           EOF
       - run: | 
          cat <<EOF > ghuserprojects.state.json
-         ${{ steps.run.outputs.state }}
+         ${{ steps.rss.outputs.state }}
          EOF
          
       - uses: EndBug/add-and-commit@v9

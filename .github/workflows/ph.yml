@@ -19,14 +19,14 @@ jobs:
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
           client_id: ${{secrets.PH_CLIENT_ID}}
           client_secret: ${{secrets.PH_CLIENT_SECRET}}
-        id: run
+        id: rss
       - run: | 
           cat <<EOF > ph.json
-          ${{ steps.run.outputs.jsonFeed }}
+          ${{ steps.rss.outputs.jsonFeed }}
           EOF
       - run: | 
          cat <<EOF > ph.state.json
-         ${{ steps.run.outputs.state }}
+         ${{ steps.rss.outputs.state }}
          EOF
          
          

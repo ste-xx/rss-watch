@@ -20,14 +20,14 @@ jobs:
           topic: r/programming
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
           title: r/programming
-        id: run
+        id: rss
       - run: | 
           cat <<EOF > rprogramming.json
-          ${{ steps.run.outputs.jsonFeed }}
+          ${{ steps.rss.outputs.jsonFeed }}
           EOF
       - run: | 
          cat <<EOF > rprogramming.state.json
-         ${{ steps.run.outputs.state }}
+         ${{ steps.rss.outputs.state }}
          EOF
      
     

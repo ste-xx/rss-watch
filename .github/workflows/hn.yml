@@ -17,14 +17,14 @@ jobs:
         with:
           state: ${{ steps.state.outputs.state }}
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json
-        id: run
+        id: rss
       - run: | 
           cat <<EOF > hn.json
-          ${{ steps.run.outputs.jsonFeed }}
+          ${{ steps.rss.outputs.jsonFeed }}
           EOF
       - run: | 
          cat <<EOF > hn.state.json
-         ${{ steps.run.outputs.state }}
+         ${{ steps.rss.outputs.state }}
          EOF
          
       - uses: EndBug/add-and-commit@v9
