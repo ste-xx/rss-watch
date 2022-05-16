@@ -1,0 +1,30 @@
+name: HN Watch
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - id: state
+        run: echo ::set-output name=state::$(cat hn.state.json)
+      - uses: ste-xx/hackernews-to-rss-action@main
+        with:
+          state: ${{ steps.state.outputs.state }}
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json
+        id: run
+      - run: | 
+          cat <<EOF > hn.json
+          ${{ steps.run.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > hn.state.json
+         ${{ steps.run.outputs.state }}
+         EOF
+         
+      - uses: EndBug/add-and-commit@v9

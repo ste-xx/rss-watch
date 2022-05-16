@@ -1,8 +1,8 @@
-name: RSS Watch
+name: Github User Watch
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "15 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,65 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      - id: hnstate
-        run: echo ::set-output name=state::$(cat hn.state.json)
-      - uses: ste-xx/hackernews-to-rss-action@main
-        with:
-          state: ${{ steps.hnstate.outputs.state }}
-          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/hn.json
-        id: hn
-      - run: | 
-          cat <<EOF > hn.json
-          ${{ steps.hn.outputs.jsonFeed }}
-          EOF
-      - run: | 
-         cat <<EOF > hn.state.json
-         ${{ steps.hn.outputs.state }}
-         EOF
-     
-      - id: rprogrammingstate
-        run: echo ::set-output name=state::$(cat rprogramming.state.json)
-      - uses: ste-xx/reddit-to-rss-action@main
-        with:
-          state: ${{ steps.rprogrammingstate.outputs.state }}
-          topic: r/programming
-          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
-          title: r/programming
-        id: rprogramming
-      - run: | 
-          cat <<EOF > rprogramming.json
-          ${{ steps.rprogramming.outputs.jsonFeed }}
-          EOF
-      - run: | 
-         cat <<EOF > rprogramming.state.json
-         ${{ steps.rprogramming.outputs.state }}
-         EOF
-     
-     
-      - id: phstate
-        run: echo ::set-output name=state::$(cat ph.state.json)
-      - uses: ste-xx/producthunt-to-rss-action@main
-        with:
-          state: ${{ steps.phstate.outputs.state }}
-          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
-          client_id: ${{secrets.PH_CLIENT_ID}}
-          client_secret: ${{secrets.PH_CLIENT_SECRET}}
-        id: ph
-      - run: | 
-          cat <<EOF > ph.json
-          ${{ steps.ph.outputs.jsonFeed }}
-          EOF
-      - run: | 
-         cat <<EOF > ph.state.json
-         ${{ steps.ph.outputs.state }}
-         EOF
          
-      - id: ghuserprojectsstate
+      - id: state
         run: echo ::set-output name=state::$(cat ghuserprojects.state.json)
       - uses: ste-xx/gh-user-projects-rss-action@main
         with:
-          state: ${{ steps.ghuserprojectsstate.outputs.state }}
+          state: ${{ steps.state.outputs.state }}
           feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ghuserprojects.json
           names: |
             [
@@ -88,14 +35,14 @@ jobs:
             ]
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        id: ghuserprojects
+        id: run
       - run: | 
           cat <<EOF > ghuserprojects.json
-          ${{ steps.ghuserprojects.outputs.jsonFeed }}
+          ${{ steps.run.outputs.jsonFeed }}
           EOF
       - run: | 
          cat <<EOF > ghuserprojects.state.json
-         ${{ steps.ghuserprojects.outputs.state }}
+         ${{ steps.run.outputs.state }}
          EOF
          
       - uses: EndBug/add-and-commit@v9

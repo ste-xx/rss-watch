@@ -1,0 +1,34 @@
+name: Reddit r/programming Watch
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+     
+      - id: state
+        run: echo ::set-output name=state::$(cat rprogramming.state.json)
+
+      - uses: ste-xx/reddit-to-rss-action@main
+        with:
+          state: ${{ steps.state.outputs.state }}
+          topic: r/programming
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/rprogramming.json
+          title: r/programming
+        id: run
+      - run: | 
+          cat <<EOF > rprogramming.json
+          ${{ steps.run.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > rprogramming.state.json
+         ${{ steps.run.outputs.state }}
+         EOF
+     
+    
+      - uses: EndBug/add-and-commit@v9

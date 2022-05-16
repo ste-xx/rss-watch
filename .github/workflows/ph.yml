@@ -1,0 +1,33 @@
+name: ProductHunt Watch
+
+on:
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - id: state
+        run: echo ::set-output name=state::$(cat ph.state.json)
+      - uses: ste-xx/producthunt-to-rss-action@main
+        with:
+          state: ${{ steps.state.outputs.state }}
+          feedUrl: https://raw.githubusercontent.com/ste-xx/rss-watch/main/ph.json
+          client_id: ${{secrets.PH_CLIENT_ID}}
+          client_secret: ${{secrets.PH_CLIENT_SECRET}}
+        id: run
+      - run: | 
+          cat <<EOF > ph.json
+          ${{ steps.run.outputs.jsonFeed }}
+          EOF
+      - run: | 
+         cat <<EOF > ph.state.json
+         ${{ steps.run.outputs.state }}
+         EOF
+         
+         
+      - uses: EndBug/add-and-commit@v9
