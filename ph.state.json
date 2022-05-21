@@ -13,13 +13,6 @@
     "title": "Acapela (1103)",
     "content_text": "The central inbox for all your work tools"
   },
-  "345959": {
-    "id": "345959",
-    "url": "https://www.producthunt.com/posts/klutch-app?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1652250625961,
-    "title": "Klutch.app (476)",
-    "content_text": "Your team's canned responses & knowledge base in one place"
-  },
   "345970": {
     "id": "345970",
     "url": "https://www.producthunt.com/posts/offers-by-aeqium?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -149,15 +142,15 @@
   "346952": {
     "id": "346952",
     "url": "https://www.producthunt.com/posts/leaddelta-2-0?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1653111424995,
-    "title": "LeadDelta 2.0 (473)",
+    "created": 1653115596085,
+    "title": "LeadDelta 2.0 (498)",
     "content_text": "LinkedIn CRM for professionals & teams"
   },
   "346973": {
     "id": "346973",
     "url": "https://www.producthunt.com/posts/longshot-ai-1?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1653111424995,
-    "title": "LongShot AI (498)",
+    "created": 1653115596085,
+    "title": "LongShot AI (523)",
     "content_text": "AI writing assistant to create long form, SEO content"
   }
 }
