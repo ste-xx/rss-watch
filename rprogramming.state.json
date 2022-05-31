@@ -163,29 +163,29 @@
   "uwyf5s": {
     "id": "uwyf5s",
     "url": "https://reddit.com/r/programming/comments/uwyf5s/if_people_are_trying_to_learn_programming_by/",
-    "created": 1654017158153,
-    "title": "\"If people are trying to learn programming by being taught to code, well, they're being taught writing by being taught how to type and that doesn't make much sense\" - Leslie Lamport (2908)",
+    "created": 1654019653647,
+    "title": "\"If people are trying to learn programming by being taught to code, well, they're being taught writing by being taught how to type and that doesn't make much sense\" - Leslie Lamport (2905)",
     "content_text": ""
   },
   "uxf12n": {
     "id": "uxf12n",
     "url": "https://reddit.com/r/programming/comments/uxf12n/hackers_can_hack_your_online_accounts_before_you/",
-    "created": 1654017158153,
-    "title": "Hackers can hack your online accounts before you even register them (994)",
+    "created": 1654019653647,
+    "title": "Hackers can hack your online accounts before you even register them (988)",
     "content_text": ""
   },
   "uxlssd": {
     "id": "uxlssd",
     "url": "https://reddit.com/r/programming/comments/uxlssd/developers_do_nothing_good_after_45_hours_of_work/",
-    "created": 1654017158153,
+    "created": 1654019653647,
     "title": "\"Developers do nothing good after 45 hours of work.\" Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros. (969)",
     "content_text": ""
   },
   "uxh60v": {
     "id": "uxh60v",
     "url": "https://reddit.com/r/programming/comments/uxh60v/a_kernel_hacker_meets_fuchsia_os/",
-    "created": 1654017158153,
-    "title": "A Kernel Hacker Meets Fuchsia OS (549)",
+    "created": 1654019653647,
+    "title": "A Kernel Hacker Meets Fuchsia OS (553)",
     "content_text": ""
   },
   "uy4e9s": {
@@ -212,29 +212,29 @@
   "uz4qd6": {
     "id": "uz4qd6",
     "url": "https://reddit.com/r/programming/comments/uz4qd6/nearly_100000_npm_users_credentials_stolen_in/",
-    "created": 1654017158153,
-    "title": "Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach (1954)",
+    "created": 1654019653647,
+    "title": "Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach (1955)",
     "content_text": ""
   },
   "uzom1w": {
     "id": "uzom1w",
     "url": "https://reddit.com/r/programming/comments/uzom1w/a_verizon_employee_database_was_stolen_by_a/",
-    "created": 1654017158153,
-    "title": "A Verizon employee database was stolen by a hacker, now held for ransom (1441)",
+    "created": 1654019653647,
+    "title": "A Verizon employee database was stolen by a hacker, now held for ransom (1445)",
     "content_text": ""
   },
   "v07ifn": {
     "id": "v07ifn",
     "url": "https://reddit.com/r/programming/comments/v07ifn/how_3_multiplications_and_2_additions_end_up/",
-    "created": 1654017158153,
-    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2436)",
+    "created": 1654019653647,
+    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2434)",
     "content_text": ""
   },
   "v0trwu": {
     "id": "v0trwu",
     "url": "https://reddit.com/r/programming/comments/v0trwu/major_version_numbers_are_not_sacred/",
-    "created": 1654017158153,
-    "title": "Major Version Numbers are Not Sacred (909)",
+    "created": 1654019653647,
+    "title": "Major Version Numbers are Not Sacred (910)",
     "content_text": ""
   },
   "v1c1tv": {
@@ -242,6 +242,13 @@
     "url": "https://reddit.com/r/programming/comments/v1c1tv/blockchain_the_amazing_solution_for_almost_nothing/",
     "created": 1653990649606,
     "title": "Blockchain, the amazing solution for almost nothing (3705)",
+    "content_text": ""
+  },
+  "v12p4r": {
+    "id": "v12p4r",
+    "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
+    "created": 1654019653647,
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (501)",
     "content_text": ""
   }
 }
