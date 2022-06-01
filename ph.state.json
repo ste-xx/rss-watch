@@ -142,29 +142,43 @@
   "348024": {
     "id": "348024",
     "url": "https://www.producthunt.com/posts/seo-content-assistant-by-searchatlas?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654112136505,
-    "title": "SEO Content Assistant by SearchAtlas (520)",
+    "created": 1654116064222,
+    "title": "SEO Content Assistant by SearchAtlas (557)",
     "content_text": "Generate 6 months of SEO content in 1 week"
+  },
+  "348055": {
+    "id": "348055",
+    "url": "https://www.producthunt.com/posts/equals?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654116064222,
+    "title": "Equals (369)",
+    "content_text": "A next generation spreadsheet with SQL data connections"
+  },
+  "348066": {
+    "id": "348066",
+    "url": "https://www.producthunt.com/posts/typedream-cms?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654116064222,
+    "title": "Typedream CMS (357)",
+    "content_text": "Display your Notion data beautifully on your site, no-code"
   },
   "348076": {
     "id": "348076",
     "url": "https://www.producthunt.com/posts/aviyel?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654112136505,
-    "title": "Aviyel (625)",
+    "created": 1654116064222,
+    "title": "Aviyel (637)",
     "content_text": "Recognition and rewards for open source communities"
   },
   "348082": {
     "id": "348082",
     "url": "https://www.producthunt.com/posts/the-crowdsec-console?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654112136505,
-    "title": "The CrowdSec Console (499)",
+    "created": 1654116064222,
+    "title": "The CrowdSec Console (511)",
     "content_text": "Monitor cyber threats on your online services"
   },
   "348084": {
     "id": "348084",
     "url": "https://www.producthunt.com/posts/akaunting-3-0?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654112136505,
-    "title": "Akaunting 3.0 (352)",
+    "created": 1654116064222,
+    "title": "Akaunting 3.0 (358)",
     "content_text": "Free accounting software for small businesses & freelancers"
   }
 }
