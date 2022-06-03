@@ -128,8 +128,8 @@
   "347960": {
     "id": "347960",
     "url": "https://www.producthunt.com/posts/crayon-2?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654266880254,
-    "title": "Crayon (378)",
+    "created": 1654270818109,
+    "title": "Crayon (404)",
     "content_text": "Animate your vector illustrations with a few clicks"
   },
   "348024": {
@@ -201,5 +201,12 @@
     "created": 1654238620209,
     "title": "Untitled UI Icons (692)",
     "content_text": "1,100+ free Figma icons for modern UI design."
+  },
+  "348323": {
+    "id": "348323",
+    "url": "https://www.producthunt.com/posts/desky?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654270818109,
+    "title": "Desky (359)",
+    "content_text": "Make your office flexible for free"
   }
 }
