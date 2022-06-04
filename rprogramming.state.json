@@ -156,15 +156,15 @@
   "v07ifn": {
     "id": "v07ifn",
     "url": "https://reddit.com/r/programming/comments/v07ifn/how_3_multiplications_and_2_additions_end_up/",
-    "created": 1654361791651,
-    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2456)",
+    "created": 1654364976689,
+    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2459)",
     "content_text": ""
   },
   "v0trwu": {
     "id": "v0trwu",
     "url": "https://reddit.com/r/programming/comments/v0trwu/major_version_numbers_are_not_sacred/",
-    "created": 1654361791651,
-    "title": "Major Version Numbers are Not Sacred (927)",
+    "created": 1654364976689,
+    "title": "Major Version Numbers are Not Sacred (921)",
     "content_text": ""
   },
   "v1c1tv": {
@@ -177,15 +177,15 @@
   "v12p4r": {
     "id": "v12p4r",
     "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
-    "created": 1654361791651,
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (521)",
+    "created": 1654364976689,
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (522)",
     "content_text": ""
   },
   "v1x4ko": {
     "id": "v1x4ko",
     "url": "https://reddit.com/r/programming/comments/v1x4ko/learnings_from_5_years_of_tech_startup_code/",
-    "created": 1654361791651,
-    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (859)",
+    "created": 1654364976689,
+    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (856)",
     "content_text": ""
   },
   "v2ckvj": {
@@ -198,8 +198,8 @@
   "v2huv1": {
     "id": "v2huv1",
     "url": "https://reddit.com/r/programming/comments/v2huv1/markovjunior_a_probabilistic_programming_language/",
-    "created": 1654361791651,
-    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1044)",
+    "created": 1654364976689,
+    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1039)",
     "content_text": ""
   },
   "v2wtyk": {
@@ -212,22 +212,29 @@
   "v3415i": {
     "id": "v3415i",
     "url": "https://reddit.com/r/programming/comments/v3415i/fixing_path_of_exiles_mangled_text_bug/",
-    "created": 1654361791651,
-    "title": "Fixing Path of Exile's Mangled Text Bug (689)",
+    "created": 1654364976689,
+    "title": "Fixing Path of Exile's Mangled Text Bug (687)",
     "content_text": ""
   },
   "v3lyl3": {
     "id": "v3lyl3",
     "url": "https://reddit.com/r/programming/comments/v3lyl3/dear_europe_here_again_are_the_reasons_why/",
-    "created": 1654361791651,
-    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2043)",
+    "created": 1654364976689,
+    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2038)",
     "content_text": ""
   },
   "v45rb6": {
     "id": "v45rb6",
     "url": "https://reddit.com/r/programming/comments/v45rb6/i_spent_a_year_building_a_desktop_environment/",
-    "created": 1654361791651,
-    "title": "I spent a year building a desktop environment that runs in the browser (3506)",
+    "created": 1654364976689,
+    "title": "I spent a year building a desktop environment that runs in the browser (3523)",
+    "content_text": ""
+  },
+  "v4pq3c": {
+    "id": "v4pq3c",
+    "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
+    "created": 1654364976689,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (688)",
     "content_text": ""
   }
 }
