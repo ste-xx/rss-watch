@@ -13,13 +13,6 @@
     "title": "Dude programs a roller coaster in Excel spreadsheets (891)",
     "content_text": ""
   },
-  "usv5nv": {
-    "id": "usv5nv",
-    "url": "https://reddit.com/r/programming/comments/usv5nv/maintainer_of_open_source_emulation_software_simh/",
-    "created": 1653541348898,
-    "title": "Maintainer of open source emulation software (simh) adds controversial feature that modifies disk image files to add metadata when loaded. Responds to criticism by updating license to ban anyone who removes the feature from using any of his future contributions. (556)",
-    "content_text": ""
-  },
   "utthba": {
     "id": "utthba",
     "url": "https://reddit.com/r/programming/comments/utthba/as_of_today_latexstyled_maths_natively_supported/",
@@ -149,15 +142,15 @@
   "v07ifn": {
     "id": "v07ifn",
     "url": "https://reddit.com/r/programming/comments/v07ifn/how_3_multiplications_and_2_additions_end_up/",
-    "created": 1654404854179,
-    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2466)",
+    "created": 1654408180320,
+    "title": "How 3 multiplications and 2 additions... end up being much faster than just 2 additions. (2462)",
     "content_text": ""
   },
   "v0trwu": {
     "id": "v0trwu",
     "url": "https://reddit.com/r/programming/comments/v0trwu/major_version_numbers_are_not_sacred/",
-    "created": 1654404854179,
-    "title": "Major Version Numbers are Not Sacred (924)",
+    "created": 1654408180320,
+    "title": "Major Version Numbers are Not Sacred (925)",
     "content_text": ""
   },
   "v1c1tv": {
@@ -170,15 +163,15 @@
   "v12p4r": {
     "id": "v12p4r",
     "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
-    "created": 1654404854179,
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (525)",
+    "created": 1654408180320,
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (523)",
     "content_text": ""
   },
   "v1x4ko": {
     "id": "v1x4ko",
     "url": "https://reddit.com/r/programming/comments/v1x4ko/learnings_from_5_years_of_tech_startup_code/",
-    "created": 1654404854179,
-    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (867)",
+    "created": 1654408180320,
+    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (859)",
     "content_text": ""
   },
   "v2ckvj": {
@@ -191,8 +184,8 @@
   "v2huv1": {
     "id": "v2huv1",
     "url": "https://reddit.com/r/programming/comments/v2huv1/markovjunior_a_probabilistic_programming_language/",
-    "created": 1654404854179,
-    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1039)",
+    "created": 1654408180320,
+    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1040)",
     "content_text": ""
   },
   "v2wtyk": {
@@ -205,36 +198,36 @@
   "v3415i": {
     "id": "v3415i",
     "url": "https://reddit.com/r/programming/comments/v3415i/fixing_path_of_exiles_mangled_text_bug/",
-    "created": 1654404854179,
-    "title": "Fixing Path of Exile's Mangled Text Bug (694)",
+    "created": 1654408180320,
+    "title": "Fixing Path of Exile's Mangled Text Bug (687)",
     "content_text": ""
   },
   "v3lyl3": {
     "id": "v3lyl3",
     "url": "https://reddit.com/r/programming/comments/v3lyl3/dear_europe_here_again_are_the_reasons_why/",
-    "created": 1654404854179,
-    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2043)",
+    "created": 1654408180320,
+    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2041)",
     "content_text": ""
   },
   "v45rb6": {
     "id": "v45rb6",
     "url": "https://reddit.com/r/programming/comments/v45rb6/i_spent_a_year_building_a_desktop_environment/",
-    "created": 1654404854179,
-    "title": "I spent a year building a desktop environment that runs in the browser (3555)",
+    "created": 1654408180320,
+    "title": "I spent a year building a desktop environment that runs in the browser (3559)",
     "content_text": ""
   },
   "v4pq3c": {
     "id": "v4pq3c",
     "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
-    "created": 1654404854179,
-    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (2874)",
+    "created": 1654408180320,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3001)",
     "content_text": ""
   },
   "v4j116": {
     "id": "v4j116",
     "url": "https://reddit.com/r/programming/comments/v4j116/i_use_19_virtual_machines_for_a_bot_that_beats/",
-    "created": 1654404854179,
-    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (579)",
+    "created": 1654408180320,
+    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (599)",
     "content_text": ""
   }
 }
