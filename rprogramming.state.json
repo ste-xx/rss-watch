@@ -149,8 +149,8 @@
   "v0trwu": {
     "id": "v0trwu",
     "url": "https://reddit.com/r/programming/comments/v0trwu/major_version_numbers_are_not_sacred/",
-    "created": 1654434264636,
-    "title": "Major Version Numbers are Not Sacred (930)",
+    "created": 1654436982132,
+    "title": "Major Version Numbers are Not Sacred (921)",
     "content_text": ""
   },
   "v1c1tv": {
@@ -163,15 +163,15 @@
   "v12p4r": {
     "id": "v12p4r",
     "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
-    "created": 1654434264636,
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (528)",
+    "created": 1654436982132,
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (524)",
     "content_text": ""
   },
   "v1x4ko": {
     "id": "v1x4ko",
     "url": "https://reddit.com/r/programming/comments/v1x4ko/learnings_from_5_years_of_tech_startup_code/",
-    "created": 1654434264636,
-    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (861)",
+    "created": 1654436982132,
+    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (863)",
     "content_text": ""
   },
   "v2ckvj": {
@@ -184,8 +184,8 @@
   "v2huv1": {
     "id": "v2huv1",
     "url": "https://reddit.com/r/programming/comments/v2huv1/markovjunior_a_probabilistic_programming_language/",
-    "created": 1654434264636,
-    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1039)",
+    "created": 1654436982132,
+    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1041)",
     "content_text": ""
   },
   "v2wtyk": {
@@ -198,50 +198,50 @@
   "v3415i": {
     "id": "v3415i",
     "url": "https://reddit.com/r/programming/comments/v3415i/fixing_path_of_exiles_mangled_text_bug/",
-    "created": 1654434264636,
-    "title": "Fixing Path of Exile's Mangled Text Bug (686)",
+    "created": 1654436982132,
+    "title": "Fixing Path of Exile's Mangled Text Bug (688)",
     "content_text": ""
   },
   "v3lyl3": {
     "id": "v3lyl3",
     "url": "https://reddit.com/r/programming/comments/v3lyl3/dear_europe_here_again_are_the_reasons_why/",
-    "created": 1654434264636,
-    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2047)",
+    "created": 1654436982132,
+    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2049)",
     "content_text": ""
   },
   "v45rb6": {
     "id": "v45rb6",
     "url": "https://reddit.com/r/programming/comments/v45rb6/i_spent_a_year_building_a_desktop_environment/",
-    "created": 1654434264636,
-    "title": "I spent a year building a desktop environment that runs in the browser (3587)",
+    "created": 1654436982132,
+    "title": "I spent a year building a desktop environment that runs in the browser (3586)",
     "content_text": ""
   },
   "v4pq3c": {
     "id": "v4pq3c",
     "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
-    "created": 1654434264636,
-    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3405)",
+    "created": 1654436982132,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3416)",
     "content_text": ""
   },
   "v4j116": {
     "id": "v4j116",
     "url": "https://reddit.com/r/programming/comments/v4j116/i_use_19_virtual_machines_for_a_bot_that_beats/",
-    "created": 1654434264636,
-    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (617)",
+    "created": 1654436982132,
+    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (618)",
     "content_text": ""
   },
   "v4ywnk": {
     "id": "v4ywnk",
     "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654434264636,
-    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (689)",
+    "created": 1654436982132,
+    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (714)",
     "content_text": ""
   },
   "v5647w": {
     "id": "v5647w",
     "url": "https://reddit.com/r/programming/comments/v5647w/an_newbie_programmer_makes_an_annoying_bump/",
-    "created": 1654434264636,
-    "title": "An newbie programmer makes an annoying \"bump\" comment on his bad PR...and tags the 350,000 people who follow the repo. If you have access to the Unreal 4 source code, you may want to unsubscribe from this PR asap. (1288)",
+    "created": 1654436982132,
+    "title": "An newbie programmer makes an annoying \"bump\" comment on his bad PR...and tags the 350,000 people who follow the repo. If you have access to the Unreal 4 source code, you may want to unsubscribe from this PR asap. (1542)",
     "content_text": ""
   }
 }
