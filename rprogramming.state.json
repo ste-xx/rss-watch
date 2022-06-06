@@ -135,15 +135,15 @@
   "v12p4r": {
     "id": "v12p4r",
     "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
-    "created": 1654505423098,
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (525)",
+    "created": 1654508987784,
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (530)",
     "content_text": ""
   },
   "v1x4ko": {
     "id": "v1x4ko",
     "url": "https://reddit.com/r/programming/comments/v1x4ko/learnings_from_5_years_of_tech_startup_code/",
-    "created": 1654505423098,
-    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (868)",
+    "created": 1654508987784,
+    "title": "Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog (871)",
     "content_text": ""
   },
   "v2ckvj": {
@@ -156,8 +156,8 @@
   "v2huv1": {
     "id": "v2huv1",
     "url": "https://reddit.com/r/programming/comments/v2huv1/markovjunior_a_probabilistic_programming_language/",
-    "created": 1654505423098,
-    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1044)",
+    "created": 1654508987784,
+    "title": "MarkovJunior, a probabilistic programming language based on pattern matching and constraint propagation (1047)",
     "content_text": ""
   },
   "v2wtyk": {
@@ -170,43 +170,43 @@
   "v3415i": {
     "id": "v3415i",
     "url": "https://reddit.com/r/programming/comments/v3415i/fixing_path_of_exiles_mangled_text_bug/",
-    "created": 1654505423098,
-    "title": "Fixing Path of Exile's Mangled Text Bug (693)",
+    "created": 1654508987784,
+    "title": "Fixing Path of Exile's Mangled Text Bug (687)",
     "content_text": ""
   },
   "v3lyl3": {
     "id": "v3lyl3",
     "url": "https://reddit.com/r/programming/comments/v3lyl3/dear_europe_here_again_are_the_reasons_why/",
-    "created": 1654505423098,
-    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2057)",
+    "created": 1654508987784,
+    "title": "Dear Europe, here again are the reasons why scanning devices for unlawful files is not going to fly (2060)",
     "content_text": ""
   },
   "v45rb6": {
     "id": "v45rb6",
     "url": "https://reddit.com/r/programming/comments/v45rb6/i_spent_a_year_building_a_desktop_environment/",
-    "created": 1654505423098,
-    "title": "I spent a year building a desktop environment that runs in the browser (3605)",
+    "created": 1654508987784,
+    "title": "I spent a year building a desktop environment that runs in the browser (3615)",
     "content_text": ""
   },
   "v4pq3c": {
     "id": "v4pq3c",
     "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
-    "created": 1654505423098,
-    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3488)",
+    "created": 1654508987784,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3491)",
     "content_text": ""
   },
   "v4j116": {
     "id": "v4j116",
     "url": "https://reddit.com/r/programming/comments/v4j116/i_use_19_virtual_machines_for_a_bot_that_beats/",
-    "created": 1654505423098,
-    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (626)",
+    "created": 1654508987784,
+    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (627)",
     "content_text": ""
   },
   "v4ywnk": {
     "id": "v4ywnk",
     "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654505423098,
-    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1063)",
+    "created": 1654508987784,
+    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1072)",
     "content_text": ""
   },
   "v5647w": {
@@ -219,8 +219,8 @@
   "v5l1nz": {
     "id": "v5l1nz",
     "url": "https://reddit.com/r/programming/comments/v5l1nz/complexity_is_killing_software_developers/",
-    "created": 1654505423098,
-    "title": "Complexity is killing software developers (1102)",
+    "created": 1654508987784,
+    "title": "Complexity is killing software developers (1171)",
     "content_text": ""
   }
 }
