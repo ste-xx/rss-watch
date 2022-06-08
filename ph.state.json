@@ -146,6 +146,13 @@
     "title": "Desky (473)",
     "content_text": "Make your office flexible for free"
   },
+  "348379": {
+    "id": "348379",
+    "url": "https://www.producthunt.com/posts/growth-hacks-weekly?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654702756869,
+    "title": "Growth Hacks Weekly (394)",
+    "content_text": "1 growth marketing hack, delivered every Sunday, for free"
+  },
   "348381": {
     "id": "348381",
     "url": "https://www.producthunt.com/posts/reform-free?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -177,8 +184,15 @@
   "348686": {
     "id": "348686",
     "url": "https://www.producthunt.com/posts/feeting-app?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654699510010,
-    "title": "Feeting.app (374)",
+    "created": 1654702756869,
+    "title": "Feeting.app (411)",
     "content_text": "Your hands-free, audio-only walking meeting platform"
+  },
+  "348706": {
+    "id": "348706",
+    "url": "https://www.producthunt.com/posts/trading-across-brokerages-by-front?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654702756869,
+    "title": "Trading Across Brokerages by Front (381)",
+    "content_text": "All your assets, and all your trades, in one single app 🚀"
   }
 }
