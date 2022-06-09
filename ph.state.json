@@ -170,8 +170,8 @@
   "348571": {
     "id": "348571",
     "url": "https://www.producthunt.com/posts/absurd-design-chapter-4?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654814380037,
-    "title": "Absurd Design Chapter 4 (556)",
+    "created": 1654817782518,
+    "title": "Absurd Design Chapter 4 (558)",
     "content_text": "Hand-drawn absurd illustrations"
   },
   "348574": {
@@ -198,15 +198,15 @@
   "348646": {
     "id": "348646",
     "url": "https://www.producthunt.com/posts/ourly-by-serviceform?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654814380037,
-    "title": "Ourly by Serviceform (735)",
+    "created": 1654817782518,
+    "title": "Ourly by Serviceform (745)",
     "content_text": "A meeting scheduler made for lead generation"
   },
   "348662": {
     "id": "348662",
     "url": "https://www.producthunt.com/posts/emelia?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654814380037,
-    "title": "Emelia (703)",
+    "created": 1654817782518,
+    "title": "Emelia (709)",
     "content_text": "The simplest and most affordable cold mailing solution"
   },
   "348678": {
@@ -244,11 +244,18 @@
     "title": "Skipp (505)",
     "content_text": "Remote tech talent as a managed service"
   },
+  "348900": {
+    "id": "348900",
+    "url": "https://www.producthunt.com/posts/indigo-tech-recruiters-rod?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1654817782518,
+    "title": "Indigo Tech Recruiters ROD (351)",
+    "content_text": "Handle hiring spikes easily with on-demand tech recruiters "
+  },
   "348903": {
     "id": "348903",
     "url": "https://www.producthunt.com/posts/slite-discussions?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1654814380037,
-    "title": "Slite Discussions (447)",
+    "created": 1654817782518,
+    "title": "Slite Discussions (449)",
     "content_text": "Docs + decision making for remote teams"
   }
 }
