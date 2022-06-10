@@ -114,28 +114,28 @@
   "v45rb6": {
     "id": "v45rb6",
     "url": "https://reddit.com/r/programming/comments/v45rb6/i_spent_a_year_building_a_desktop_environment/",
-    "created": 1654843989688,
-    "title": "I spent a year building a desktop environment that runs in the browser (3647)",
+    "created": 1654847406000,
+    "title": "I spent a year building a desktop environment that runs in the browser (3651)",
     "content_text": ""
   },
   "v4pq3c": {
     "id": "v4pq3c",
     "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
-    "created": 1654843989688,
-    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3516)",
+    "created": 1654847406000,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3512)",
     "content_text": ""
   },
   "v4j116": {
     "id": "v4j116",
     "url": "https://reddit.com/r/programming/comments/v4j116/i_use_19_virtual_machines_for_a_bot_that_beats/",
-    "created": 1654843989688,
-    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (637)",
+    "created": 1654847406000,
+    "title": "I use 19 virtual machines for a bot that beats Google Recaptcha for 10 hours straight. Ubuntu, Xdotool, 19 virtual machines as proxies to trick V3 captcha, written 100% in shell scripting (633)",
     "content_text": ""
   },
   "v4ywnk": {
     "id": "v4ywnk",
     "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654843989688,
+    "created": 1654847406000,
     "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1122)",
     "content_text": ""
   },
@@ -149,64 +149,71 @@
   "v5l1nz": {
     "id": "v5l1nz",
     "url": "https://reddit.com/r/programming/comments/v5l1nz/complexity_is_killing_software_developers/",
-    "created": 1654843989688,
-    "title": "Complexity is killing software developers (2042)",
+    "created": 1654847406000,
+    "title": "Complexity is killing software developers (2045)",
     "content_text": ""
   },
   "v5venf": {
     "id": "v5venf",
     "url": "https://reddit.com/r/programming/comments/v5venf/developer_burnout_why_it_happens_and_what_we_can/",
-    "created": 1654843989688,
-    "title": "Developer Burnout: Why it Happens and What We Can Do About It (628)",
+    "created": 1654847406000,
+    "title": "Developer Burnout: Why it Happens and What We Can Do About It (631)",
     "content_text": ""
   },
   "v63e5o": {
     "id": "v63e5o",
     "url": "https://reddit.com/r/programming/comments/v63e5o/python_311_performance_benchmarks_are_looking/",
-    "created": 1654843989688,
-    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1492)",
+    "created": 1654847406000,
+    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1494)",
     "content_text": ""
   },
   "v6ph76": {
     "id": "v6ph76",
     "url": "https://reddit.com/r/programming/comments/v6ph76/i_created_my_own_programming_language_that/",
-    "created": 1654843989688,
-    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (830)",
+    "created": 1654847406000,
+    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (826)",
     "content_text": ""
   },
   "v66vun": {
     "id": "v66vun",
     "url": "https://reddit.com/r/programming/comments/v66vun/the_toxic_grind/",
-    "created": 1654843989688,
-    "title": "The Toxic Grind (505)",
+    "created": 1654847406000,
+    "title": "The Toxic Grind (500)",
     "content_text": ""
   },
   "v74lb7": {
     "id": "v74lb7",
     "url": "https://reddit.com/r/programming/comments/v74lb7/adding_rollback_netplay_to_a_game_boy_advance/",
-    "created": 1654843989688,
+    "created": 1654847406000,
     "title": "Adding rollback netplay to a Game Boy Advance game from 2005 -- Mega Man Battle Network (618)",
     "content_text": ""
   },
   "v7s7b8": {
     "id": "v7s7b8",
     "url": "https://reddit.com/r/programming/comments/v7s7b8/github_is_sunsetting_atom/",
-    "created": 1654843989688,
-    "title": "GitHub is sunsetting Atom (2973)",
+    "created": 1654847406000,
+    "title": "GitHub is sunsetting Atom (2971)",
     "content_text": ""
   },
   "v7molf": {
     "id": "v7molf",
     "url": "https://reddit.com/r/programming/comments/v7molf/an_opensource_fullautonomous_smart_greenhouse/",
-    "created": 1654843989688,
-    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (626)",
+    "created": 1654847406000,
+    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (627)",
     "content_text": ""
   },
   "v8f5lx": {
     "id": "v8f5lx",
     "url": "https://reddit.com/r/programming/comments/v8f5lx/code_review_how_to_make_enemies/",
-    "created": 1654843989688,
-    "title": "Code Review: How to make enemies (1108)",
+    "created": 1654847406000,
+    "title": "Code Review: How to make enemies (1116)",
+    "content_text": ""
+  },
+  "v8kch2": {
+    "id": "v8kch2",
+    "url": "https://reddit.com/r/programming/comments/v8kch2/stop_interviewing_with_leet_code/",
+    "created": 1654847406000,
+    "title": "Stop Interviewing With Leet Code (511)",
     "content_text": ""
   }
 }
