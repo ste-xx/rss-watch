@@ -6,13 +6,6 @@
     "title": "\"Developers do nothing good after 45 hours of work.\" Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros. (973)",
     "content_text": ""
   },
-  "uxh60v": {
-    "id": "uxh60v",
-    "url": "https://reddit.com/r/programming/comments/uxh60v/a_kernel_hacker_meets_fuchsia_os/",
-    "created": 1654090450189,
-    "title": "A Kernel Hacker Meets Fuchsia OS (557)",
-    "content_text": ""
-  },
   "uz4qd6": {
     "id": "uz4qd6",
     "url": "https://reddit.com/r/programming/comments/uz4qd6/nearly_100000_npm_users_credentials_stolen_in/",
@@ -100,8 +93,8 @@
   "v4pq3c": {
     "id": "v4pq3c",
     "url": "https://reddit.com/r/programming/comments/v4pq3c/people_seem_to_fear_regex_so_i_made_a_puzzle_game/",
-    "created": 1654952685125,
-    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3525)",
+    "created": 1654955378970,
+    "title": "People seem to fear regex, so I made a puzzle game to help teach it through fighting goblins (3524)",
     "content_text": ""
   },
   "v4j116": {
@@ -114,8 +107,8 @@
   "v4ywnk": {
     "id": "v4ywnk",
     "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654952685125,
-    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1123)",
+    "created": 1654955378970,
+    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1119)",
     "content_text": ""
   },
   "v5647w": {
@@ -128,85 +121,92 @@
   "v5l1nz": {
     "id": "v5l1nz",
     "url": "https://reddit.com/r/programming/comments/v5l1nz/complexity_is_killing_software_developers/",
-    "created": 1654952685125,
-    "title": "Complexity is killing software developers (2050)",
+    "created": 1654955378970,
+    "title": "Complexity is killing software developers (2051)",
     "content_text": ""
   },
   "v5venf": {
     "id": "v5venf",
     "url": "https://reddit.com/r/programming/comments/v5venf/developer_burnout_why_it_happens_and_what_we_can/",
-    "created": 1654952685125,
-    "title": "Developer Burnout: Why it Happens and What We Can Do About It (636)",
+    "created": 1654955378970,
+    "title": "Developer Burnout: Why it Happens and What We Can Do About It (633)",
     "content_text": ""
   },
   "v63e5o": {
     "id": "v63e5o",
     "url": "https://reddit.com/r/programming/comments/v63e5o/python_311_performance_benchmarks_are_looking/",
-    "created": 1654952685125,
-    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1503)",
+    "created": 1654955378970,
+    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1497)",
     "content_text": ""
   },
   "v6ph76": {
     "id": "v6ph76",
     "url": "https://reddit.com/r/programming/comments/v6ph76/i_created_my_own_programming_language_that/",
-    "created": 1654952685125,
-    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (828)",
+    "created": 1654955378970,
+    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (831)",
     "content_text": ""
   },
   "v66vun": {
     "id": "v66vun",
     "url": "https://reddit.com/r/programming/comments/v66vun/the_toxic_grind/",
-    "created": 1654952685125,
-    "title": "The Toxic Grind (502)",
+    "created": 1654955378970,
+    "title": "The Toxic Grind (500)",
     "content_text": ""
   },
   "v74lb7": {
     "id": "v74lb7",
     "url": "https://reddit.com/r/programming/comments/v74lb7/adding_rollback_netplay_to_a_game_boy_advance/",
-    "created": 1654952685125,
+    "created": 1654955378970,
     "title": "Adding rollback netplay to a Game Boy Advance game from 2005 -- Mega Man Battle Network (620)",
     "content_text": ""
   },
   "v7s7b8": {
     "id": "v7s7b8",
     "url": "https://reddit.com/r/programming/comments/v7s7b8/github_is_sunsetting_atom/",
-    "created": 1654952685125,
-    "title": "GitHub is sunsetting Atom (2985)",
+    "created": 1654955378970,
+    "title": "GitHub is sunsetting Atom (2987)",
     "content_text": ""
   },
   "v7molf": {
     "id": "v7molf",
     "url": "https://reddit.com/r/programming/comments/v7molf/an_opensource_fullautonomous_smart_greenhouse/",
-    "created": 1654952685125,
-    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (628)",
+    "created": 1654955378970,
+    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (622)",
     "content_text": ""
   },
   "v8f5lx": {
     "id": "v8f5lx",
     "url": "https://reddit.com/r/programming/comments/v8f5lx/code_review_how_to_make_enemies/",
-    "created": 1654952685125,
+    "created": 1654955378970,
     "title": "Code Review: How to make enemies (1196)",
     "content_text": ""
   },
   "v8kch2": {
     "id": "v8kch2",
     "url": "https://reddit.com/r/programming/comments/v8kch2/stop_interviewing_with_leet_code/",
-    "created": 1654952685125,
-    "title": "Stop Interviewing With Leet Code (622)",
+    "created": 1654955378970,
+    "title": "Stop Interviewing With Leet Code (624)",
     "content_text": ""
   },
   "v8wdtd": {
     "id": "v8wdtd",
     "url": "https://reddit.com/r/programming/comments/v8wdtd/http3_becomes_a_standard_at_last_networking/",
-    "created": 1654952685125,
-    "title": "HTTP/3 becomes a standard, at last - Networking - Security (919)",
+    "created": 1654955378970,
+    "title": "HTTP/3 becomes a standard, at last - Networking - Security (922)",
     "content_text": ""
   },
   "v951xp": {
     "id": "v951xp",
     "url": "https://reddit.com/r/programming/comments/v951xp/a_google_cloud_employee_set_a_new_record/",
-    "created": 1654952685125,
-    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (1956)",
+    "created": 1654955378970,
+    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (1959)",
+    "content_text": ""
+  },
+  "v9pfss": {
+    "id": "v9pfss",
+    "url": "https://reddit.com/r/programming/comments/v9pfss/apple_m1_processors_have_a_unpatchable_issue/",
+    "created": 1654955378970,
+    "title": "Apple M1 processors have a 'unpatchable' issue, according to MIT experts. (527)",
     "content_text": ""
   }
 }
