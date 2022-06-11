@@ -93,8 +93,8 @@
   "v4ywnk": {
     "id": "v4ywnk",
     "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654980580525,
-    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1124)",
+    "created": 1654984183633,
+    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1120)",
     "content_text": ""
   },
   "v5647w": {
@@ -107,85 +107,85 @@
   "v5l1nz": {
     "id": "v5l1nz",
     "url": "https://reddit.com/r/programming/comments/v5l1nz/complexity_is_killing_software_developers/",
-    "created": 1654980580525,
-    "title": "Complexity is killing software developers (2051)",
+    "created": 1654984183633,
+    "title": "Complexity is killing software developers (2055)",
     "content_text": ""
   },
   "v5venf": {
     "id": "v5venf",
     "url": "https://reddit.com/r/programming/comments/v5venf/developer_burnout_why_it_happens_and_what_we_can/",
-    "created": 1654980580525,
-    "title": "Developer Burnout: Why it Happens and What We Can Do About It (633)",
+    "created": 1654984183633,
+    "title": "Developer Burnout: Why it Happens and What We Can Do About It (635)",
     "content_text": ""
   },
   "v63e5o": {
     "id": "v63e5o",
     "url": "https://reddit.com/r/programming/comments/v63e5o/python_311_performance_benchmarks_are_looking/",
-    "created": 1654980580525,
-    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1496)",
+    "created": 1654984183633,
+    "title": "Python 3.11 Performance Benchmarks Are Looking Fantastic (1501)",
     "content_text": ""
   },
   "v6ph76": {
     "id": "v6ph76",
     "url": "https://reddit.com/r/programming/comments/v6ph76/i_created_my_own_programming_language_that/",
-    "created": 1654980580525,
-    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (830)",
+    "created": 1654984183633,
+    "title": "I created my own programming language that compiles into Lua code but uses a more C/Rust like syntax (826)",
     "content_text": ""
   },
   "v66vun": {
     "id": "v66vun",
     "url": "https://reddit.com/r/programming/comments/v66vun/the_toxic_grind/",
-    "created": 1654980580525,
-    "title": "The Toxic Grind (506)",
+    "created": 1654984183633,
+    "title": "The Toxic Grind (503)",
     "content_text": ""
   },
   "v74lb7": {
     "id": "v74lb7",
     "url": "https://reddit.com/r/programming/comments/v74lb7/adding_rollback_netplay_to_a_game_boy_advance/",
-    "created": 1654980580525,
-    "title": "Adding rollback netplay to a Game Boy Advance game from 2005 -- Mega Man Battle Network (621)",
+    "created": 1654984183633,
+    "title": "Adding rollback netplay to a Game Boy Advance game from 2005 -- Mega Man Battle Network (619)",
     "content_text": ""
   },
   "v7s7b8": {
     "id": "v7s7b8",
     "url": "https://reddit.com/r/programming/comments/v7s7b8/github_is_sunsetting_atom/",
-    "created": 1654980580525,
-    "title": "GitHub is sunsetting Atom (2991)",
+    "created": 1654984183633,
+    "title": "GitHub is sunsetting Atom (2988)",
     "content_text": ""
   },
   "v7molf": {
     "id": "v7molf",
     "url": "https://reddit.com/r/programming/comments/v7molf/an_opensource_fullautonomous_smart_greenhouse/",
-    "created": 1654980580525,
-    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (631)",
+    "created": 1654984183633,
+    "title": "An open-source full-autonomous smart greenhouse that is connected with your devices! The software was written entirely by me for a university project :) (627)",
     "content_text": ""
   },
   "v8f5lx": {
     "id": "v8f5lx",
     "url": "https://reddit.com/r/programming/comments/v8f5lx/code_review_how_to_make_enemies/",
-    "created": 1654980580525,
-    "title": "Code Review: How to make enemies (1202)",
+    "created": 1654984183633,
+    "title": "Code Review: How to make enemies (1197)",
     "content_text": ""
   },
   "v8kch2": {
     "id": "v8kch2",
     "url": "https://reddit.com/r/programming/comments/v8kch2/stop_interviewing_with_leet_code/",
-    "created": 1654980580525,
-    "title": "Stop Interviewing With Leet Code (629)",
+    "created": 1654984183633,
+    "title": "Stop Interviewing With Leet Code (620)",
     "content_text": ""
   },
   "v8wdtd": {
     "id": "v8wdtd",
     "url": "https://reddit.com/r/programming/comments/v8wdtd/http3_becomes_a_standard_at_last_networking/",
-    "created": 1654980580525,
-    "title": "HTTP/3 becomes a standard, at last - Networking - Security (924)",
+    "created": 1654984183633,
+    "title": "HTTP/3 becomes a standard, at last - Networking - Security (927)",
     "content_text": ""
   },
   "v951xp": {
     "id": "v951xp",
     "url": "https://reddit.com/r/programming/comments/v951xp/a_google_cloud_employee_set_a_new_record/",
-    "created": 1654980580525,
-    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (1979)",
+    "created": 1654984183633,
+    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (1980)",
     "content_text": ""
   },
   "v9pfss": {
