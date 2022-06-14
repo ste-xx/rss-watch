@@ -149,8 +149,8 @@
   "349077": {
     "id": "349077",
     "url": "https://www.producthunt.com/posts/fusiongrid-by-fusioncharts?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655221330014,
-    "title": "FusionGrid by FusionCharts (430)",
+    "created": 1655225738126,
+    "title": "FusionGrid by FusionCharts (453)",
     "content_text": "JavaScript data grid component for web & mobile applications"
   },
   "349081": {
@@ -191,22 +191,36 @@
   "349333": {
     "id": "349333",
     "url": "https://www.producthunt.com/posts/save-emails-to-pdf-by-cloudhq?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655221330014,
-    "title": "Save Emails to PDF by cloudHQ (528)",
+    "created": 1655225738126,
+    "title": "Save Emails to PDF by cloudHQ (592)",
     "content_text": "Convert Gmail to PDF on your local hard drive"
   },
   "349337": {
     "id": "349337",
     "url": "https://www.producthunt.com/posts/prettysmart-co?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655221330014,
-    "title": "Prettysmart.co (457)",
+    "created": 1655225738126,
+    "title": "Prettysmart.co (575)",
     "content_text": "An AI based graphic designer and content writer"
+  },
+  "349354": {
+    "id": "349354",
+    "url": "https://www.producthunt.com/posts/copywritingprompts-com?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1655225738126,
+    "title": "CopywritingPrompts.com (355)",
+    "content_text": "Practice copywriting with new prompts and exercises daily"
+  },
+  "349373": {
+    "id": "349373",
+    "url": "https://www.producthunt.com/posts/simplified-content-calendar-analytics?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1655225738126,
+    "title": "Simplified Content Calendar & Analytics (382)",
+    "content_text": "Create, plan and publish your social content in one tool"
   },
   "349380": {
     "id": "349380",
     "url": "https://www.producthunt.com/posts/inboxpro?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655221330014,
-    "title": "InboxPro (354)",
+    "created": 1655225738126,
+    "title": "InboxPro (374)",
     "content_text": "Boost your productivity & turn Gmail into a powerful machine"
   }
 }
