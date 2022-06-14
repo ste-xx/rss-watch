@@ -149,8 +149,8 @@
   "349077": {
     "id": "349077",
     "url": "https://www.producthunt.com/posts/fusiongrid-by-fusioncharts?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "FusionGrid by FusionCharts (454)",
+    "created": 1655232242765,
+    "title": "FusionGrid by FusionCharts (459)",
     "content_text": "JavaScript data grid component for web & mobile applications"
   },
   "349081": {
@@ -188,39 +188,46 @@
     "title": "Driveway (437)",
     "content_text": "Create interactive how-to guides automatically"
   },
+  "349301": {
+    "id": "349301",
+    "url": "https://www.producthunt.com/posts/pippl?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1655232242765,
+    "title": "pippl (396)",
+    "content_text": "Employer feedback directly to your profile"
+  },
   "349333": {
     "id": "349333",
     "url": "https://www.producthunt.com/posts/save-emails-to-pdf-by-cloudhq?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "Save Emails to PDF by cloudHQ (605)",
+    "created": 1655232242765,
+    "title": "Save Emails to PDF by cloudHQ (631)",
     "content_text": "Convert Gmail to PDF on your local hard drive"
   },
   "349337": {
     "id": "349337",
     "url": "https://www.producthunt.com/posts/prettysmart-co?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "Prettysmart.co (632)",
+    "created": 1655232242765,
+    "title": "Prettysmart.co (700)",
     "content_text": "An AI based graphic designer and content writer"
   },
   "349354": {
     "id": "349354",
     "url": "https://www.producthunt.com/posts/copywritingprompts-com?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "CopywritingPrompts.com (367)",
+    "created": 1655232242765,
+    "title": "CopywritingPrompts.com (390)",
     "content_text": "Practice copywriting with new prompts and exercises daily"
   },
   "349373": {
     "id": "349373",
     "url": "https://www.producthunt.com/posts/simplified-content-calendar-analytics?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "Simplified Content Calendar & Analytics (407)",
+    "created": 1655232242765,
+    "title": "Simplified Content Calendar & Analytics (435)",
     "content_text": "Create, plan and publish your social content in one tool"
   },
   "349380": {
     "id": "349380",
     "url": "https://www.producthunt.com/posts/inboxpro?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655228364162,
-    "title": "InboxPro (422)",
+    "created": 1655232242765,
+    "title": "InboxPro (502)",
     "content_text": "Boost your productivity & turn Gmail into a powerful machine"
   }
 }
