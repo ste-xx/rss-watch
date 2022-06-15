@@ -142,8 +142,8 @@
   "349003": {
     "id": "349003",
     "url": "https://www.producthunt.com/posts/autocloud-2-0?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655318608463,
-    "title": "AutoCloud 2.0 (498)",
+    "created": 1655321633674,
+    "title": "AutoCloud 2.0 (518)",
     "content_text": "Complete CloudOps for AWS, Azure, and Google Cloud"
   },
   "349043": {
@@ -254,8 +254,8 @@
   "349387": {
     "id": "349387",
     "url": "https://www.producthunt.com/posts/fleet-cockpit?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655318608463,
-    "title": "Fleet Cockpit (610)",
+    "created": 1655321633674,
+    "title": "Fleet Cockpit (621)",
     "content_text": "Device management for hybrid teams"
   },
   "349418": {
@@ -268,15 +268,15 @@
   "349471": {
     "id": "349471",
     "url": "https://www.producthunt.com/posts/softr-mobile?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655318608463,
-    "title": "Softr Mobile (894)",
+    "created": 1655321633674,
+    "title": "Softr Mobile (921)",
     "content_text": "Create Airtable powered mobile apps, without code"
   },
   "349504": {
     "id": "349504",
     "url": "https://www.producthunt.com/posts/tango-2-0?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655318608463,
-    "title": "Tango 2.0 (367)",
+    "created": 1655321633674,
+    "title": "Tango 2.0 (391)",
     "content_text": "Automatically generate step-by-step guides for your team"
   }
 }
