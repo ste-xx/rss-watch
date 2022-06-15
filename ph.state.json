@@ -139,6 +139,13 @@
     "title": "Brevy (548)",
     "content_text": "Loom for designers, PMs, and engineers"
   },
+  "349003": {
+    "id": "349003",
+    "url": "https://www.producthunt.com/posts/autocloud-2-0?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1655307680947,
+    "title": "AutoCloud 2.0 (387)",
+    "content_text": "Complete CloudOps for AWS, Azure, and Google Cloud"
+  },
   "349043": {
     "id": "349043",
     "url": "https://www.producthunt.com/posts/acapela-s-ultimate-guide-to-deep-work?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -247,8 +254,8 @@
   "349387": {
     "id": "349387",
     "url": "https://www.producthunt.com/posts/fleet-cockpit?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655303764353,
-    "title": "Fleet Cockpit (489)",
+    "created": 1655307680947,
+    "title": "Fleet Cockpit (532)",
     "content_text": "Device management for hybrid teams"
   },
   "349418": {
@@ -261,8 +268,8 @@
   "349471": {
     "id": "349471",
     "url": "https://www.producthunt.com/posts/softr-mobile?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1655303764353,
-    "title": "Softr Mobile (717)",
+    "created": 1655307680947,
+    "title": "Softr Mobile (776)",
     "content_text": "Create Airtable powered mobile apps, without code"
   }
 }
