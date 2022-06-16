@@ -1,11 +1,4 @@
 {
-  "v12p4r": {
-    "id": "v12p4r",
-    "url": "https://reddit.com/r/programming/comments/v12p4r/bob_cassette_rewinder_hacking_detergent_drm/",
-    "created": 1654530657330,
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM (526)",
-    "content_text": ""
-  },
   "v1x4ko": {
     "id": "v1x4ko",
     "url": "https://reddit.com/r/programming/comments/v1x4ko/learnings_from_5_years_of_tech_startup_code/",
@@ -128,22 +121,22 @@
   "v8kch2": {
     "id": "v8kch2",
     "url": "https://reddit.com/r/programming/comments/v8kch2/stop_interviewing_with_leet_code/",
-    "created": 1655390985543,
-    "title": "Stop Interviewing With Leet Code (637)",
+    "created": 1655394690645,
+    "title": "Stop Interviewing With Leet Code (639)",
     "content_text": ""
   },
   "v8wdtd": {
     "id": "v8wdtd",
     "url": "https://reddit.com/r/programming/comments/v8wdtd/http3_becomes_a_standard_at_last_networking/",
-    "created": 1655390985543,
-    "title": "HTTP/3 becomes a standard, at last - Networking - Security (944)",
+    "created": 1655394690644,
+    "title": "HTTP/3 becomes a standard, at last - Networking - Security (948)",
     "content_text": ""
   },
   "v951xp": {
     "id": "v951xp",
     "url": "https://reddit.com/r/programming/comments/v951xp/a_google_cloud_employee_set_a_new_record/",
-    "created": 1655390985543,
-    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (2009)",
+    "created": 1655394690644,
+    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (2017)",
     "content_text": ""
   },
   "v9pfss": {
@@ -156,64 +149,64 @@
   "v9wjyh": {
     "id": "v9wjyh",
     "url": "https://reddit.com/r/programming/comments/v9wjyh/becoming_cto_of_a_small_startup/",
-    "created": 1655390985543,
+    "created": 1655394690644,
     "title": "Becoming CTO of a small startup (1127)",
     "content_text": ""
   },
   "val2x3": {
     "id": "val2x3",
     "url": "https://reddit.com/r/programming/comments/val2x3/a_discussion_between_a_google_engineer_and_their/",
-    "created": 1655390985543,
-    "title": "A discussion between a Google engineer and their conversational AI model helped cause the engineer to believe the AI is becoming sentient, kick up an internal shitstorm, and get suspended from his job. (5570)",
+    "created": 1655394690644,
+    "title": "A discussion between a Google engineer and their conversational AI model helped cause the engineer to believe the AI is becoming sentient, kick up an internal shitstorm, and get suspended from his job. (5567)",
     "content_text": ""
   },
   "vaqzst": {
     "id": "vaqzst",
     "url": "https://reddit.com/r/programming/comments/vaqzst/doujinci_automated_pipeline_for_decensoring/",
-    "created": 1655390985543,
-    "title": "DoujinCI: automated pipeline for decensoring hentai comics (1391)",
+    "created": 1655394690644,
+    "title": "DoujinCI: automated pipeline for decensoring hentai comics (1388)",
     "content_text": ""
   },
   "vbda05": {
     "id": "vbda05",
     "url": "https://reddit.com/r/programming/comments/vbda05/behind_symbiote_a_new_linux_malware_that_is/",
-    "created": 1655390985543,
+    "created": 1655394690645,
     "title": "Behind Symbiote, a new Linux malware that is almost impossible to detect (794)",
     "content_text": ""
   },
   "vbp5nj": {
     "id": "vbp5nj",
     "url": "https://reddit.com/r/programming/comments/vbp5nj/the_transcript_used_as_evidence_that_a_google_ai/",
-    "created": 1655390985543,
-    "title": "The transcript used as evidence that a Google AI was sentient was edited and rearranged to make it 'enjoyable to read' (2162)",
+    "created": 1655394690644,
+    "title": "The transcript used as evidence that a Google AI was sentient was edited and rearranged to make it 'enjoyable to read' (2155)",
     "content_text": ""
   },
   "vc7so7": {
     "id": "vc7so7",
     "url": "https://reddit.com/r/programming/comments/vc7so7/firefox_rolls_out_total_cookie_protection_by/",
-    "created": 1655390985543,
-    "title": "Firefox rolls out Total Cookie Protection by default to all users (3296)",
+    "created": 1655394690644,
+    "title": "Firefox rolls out Total Cookie Protection by default to all users (3298)",
     "content_text": ""
   },
   "vc8811": {
     "id": "vc8811",
     "url": "https://reddit.com/r/programming/comments/vc8811/software_engineering_estimates_are_garbage/",
-    "created": 1655390985543,
-    "title": "Software engineering estimates are garbage (716)",
+    "created": 1655394690645,
+    "title": "Software engineering estimates are garbage (719)",
     "content_text": ""
   },
   "vcspz9": {
     "id": "vcspz9",
     "url": "https://reddit.com/r/programming/comments/vcspz9/support_for_ie11_in_windows_10_ends_today/",
-    "created": 1655390985543,
-    "title": "Support for IE11 in Windows 10 ends today (1547)",
+    "created": 1655394690644,
+    "title": "Support for IE11 in Windows 10 ends today (1546)",
     "content_text": ""
   },
   "vdhwt2": {
     "id": "vdhwt2",
     "url": "https://reddit.com/r/programming/comments/vdhwt2/cloudflare_mitigates_26_million_request_per/",
-    "created": 1655390985543,
-    "title": "Cloudflare mitigates 26 million request per second DDoS attack (762)",
+    "created": 1655394690644,
+    "title": "Cloudflare mitigates 26 million request per second DDoS attack (965)",
     "content_text": ""
   }
 }
