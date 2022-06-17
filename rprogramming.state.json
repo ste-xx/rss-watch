@@ -135,8 +135,8 @@
   "v951xp": {
     "id": "v951xp",
     "url": "https://reddit.com/r/programming/comments/v951xp/a_google_cloud_employee_set_a_new_record/",
-    "created": 1655423376970,
-    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (2017)",
+    "created": 1655434225515,
+    "title": "A Google Cloud employee set a new record calculating the 100 trillionth digit of pi (2015)",
     "content_text": ""
   },
   "v9pfss": {
@@ -149,64 +149,71 @@
   "v9wjyh": {
     "id": "v9wjyh",
     "url": "https://reddit.com/r/programming/comments/v9wjyh/becoming_cto_of_a_small_startup/",
-    "created": 1655423376970,
-    "title": "Becoming CTO of a small startup (1122)",
+    "created": 1655434225515,
+    "title": "Becoming CTO of a small startup (1130)",
     "content_text": ""
   },
   "val2x3": {
     "id": "val2x3",
     "url": "https://reddit.com/r/programming/comments/val2x3/a_discussion_between_a_google_engineer_and_their/",
-    "created": 1655423376970,
-    "title": "A discussion between a Google engineer and their conversational AI model helped cause the engineer to believe the AI is becoming sentient, kick up an internal shitstorm, and get suspended from his job. (5566)",
+    "created": 1655434225515,
+    "title": "A discussion between a Google engineer and their conversational AI model helped cause the engineer to believe the AI is becoming sentient, kick up an internal shitstorm, and get suspended from his job. (5574)",
     "content_text": ""
   },
   "vaqzst": {
     "id": "vaqzst",
     "url": "https://reddit.com/r/programming/comments/vaqzst/doujinci_automated_pipeline_for_decensoring/",
-    "created": 1655423376970,
-    "title": "DoujinCI: automated pipeline for decensoring hentai comics (1395)",
+    "created": 1655434225515,
+    "title": "DoujinCI: automated pipeline for decensoring hentai comics (1396)",
     "content_text": ""
   },
   "vbda05": {
     "id": "vbda05",
     "url": "https://reddit.com/r/programming/comments/vbda05/behind_symbiote_a_new_linux_malware_that_is/",
-    "created": 1655423376970,
-    "title": "Behind Symbiote, a new Linux malware that is almost impossible to detect (792)",
+    "created": 1655434225515,
+    "title": "Behind Symbiote, a new Linux malware that is almost impossible to detect (790)",
     "content_text": ""
   },
   "vbp5nj": {
     "id": "vbp5nj",
     "url": "https://reddit.com/r/programming/comments/vbp5nj/the_transcript_used_as_evidence_that_a_google_ai/",
-    "created": 1655423376970,
-    "title": "The transcript used as evidence that a Google AI was sentient was edited and rearranged to make it 'enjoyable to read' (2164)",
+    "created": 1655434225515,
+    "title": "The transcript used as evidence that a Google AI was sentient was edited and rearranged to make it 'enjoyable to read' (2158)",
     "content_text": ""
   },
   "vc7so7": {
     "id": "vc7so7",
     "url": "https://reddit.com/r/programming/comments/vc7so7/firefox_rolls_out_total_cookie_protection_by/",
-    "created": 1655423376970,
-    "title": "Firefox rolls out Total Cookie Protection by default to all users (3292)",
+    "created": 1655434225515,
+    "title": "Firefox rolls out Total Cookie Protection by default to all users (3298)",
     "content_text": ""
   },
   "vc8811": {
     "id": "vc8811",
     "url": "https://reddit.com/r/programming/comments/vc8811/software_engineering_estimates_are_garbage/",
-    "created": 1655423376970,
+    "created": 1655434225515,
     "title": "Software engineering estimates are garbage (718)",
     "content_text": ""
   },
   "vcspz9": {
     "id": "vcspz9",
     "url": "https://reddit.com/r/programming/comments/vcspz9/support_for_ie11_in_windows_10_ends_today/",
-    "created": 1655423376970,
-    "title": "Support for IE11 in Windows 10 ends today (1558)",
+    "created": 1655434225515,
+    "title": "Support for IE11 in Windows 10 ends today (1555)",
     "content_text": ""
   },
   "vdhwt2": {
     "id": "vdhwt2",
     "url": "https://reddit.com/r/programming/comments/vdhwt2/cloudflare_mitigates_26_million_request_per/",
-    "created": 1655423376970,
-    "title": "Cloudflare mitigates 26 million request per second DDoS attack (1964)",
+    "created": 1655434225515,
+    "title": "Cloudflare mitigates 26 million request per second DDoS attack (2204)",
+    "content_text": ""
+  },
+  "vdh0ix": {
+    "id": "vdh0ix",
+    "url": "https://reddit.com/r/programming/comments/vdh0ix/code_bloat_has_become_astronomical/",
+    "created": 1655434225515,
+    "title": "Code bloat has become astronomical (501)",
     "content_text": ""
   }
 }
