@@ -1,11 +1,4 @@
 {
-  "v4ywnk": {
-    "id": "v4ywnk",
-    "url": "https://reddit.com/r/programming/comments/v4ywnk/a_few_years_ago_due_to_some_random_chain_of/",
-    "created": 1654984183633,
-    "title": "\"A few years ago, due to some random chain of events, I ended up implementing a conversion from 128 bit integers to 64 bit floats. This would’ve turned out to be a complete waste of time, except that my final version is faster than the builtin conversion of every compiler I tested.\" (1120)",
-    "content_text": ""
-  },
   "v5l1nz": {
     "id": "v5l1nz",
     "url": "https://reddit.com/r/programming/comments/v5l1nz/complexity_is_killing_software_developers/",
@@ -142,50 +135,50 @@
   "vcspz9": {
     "id": "vcspz9",
     "url": "https://reddit.com/r/programming/comments/vcspz9/support_for_ie11_in_windows_10_ends_today/",
-    "created": 1655848182501,
-    "title": "Support for IE11 in Windows 10 ends today (1586)",
+    "created": 1655851781850,
+    "title": "Support for IE11 in Windows 10 ends today (1584)",
     "content_text": ""
   },
   "vdhwt2": {
     "id": "vdhwt2",
     "url": "https://reddit.com/r/programming/comments/vdhwt2/cloudflare_mitigates_26_million_request_per/",
-    "created": 1655848182501,
+    "created": 1655851781850,
     "title": "Cloudflare mitigates 26 million request per second DDoS attack (2565)",
     "content_text": ""
   },
   "vdh0ix": {
     "id": "vdh0ix",
     "url": "https://reddit.com/r/programming/comments/vdh0ix/code_bloat_has_become_astronomical/",
-    "created": 1655848182501,
-    "title": "Code bloat has become astronomical (648)",
+    "created": 1655851781850,
+    "title": "Code bloat has become astronomical (646)",
     "content_text": ""
   },
   "ve31my": {
     "id": "ve31my",
     "url": "https://reddit.com/r/programming/comments/ve31my/continuous_unix_commit_history_from_1970_until/",
-    "created": 1655848182501,
-    "title": "Continuous Unix commit history from 1970 until today (957)",
+    "created": 1655851781850,
+    "title": "Continuous Unix commit history from 1970 until today (956)",
     "content_text": ""
   },
   "velg5w": {
     "id": "velg5w",
     "url": "https://reddit.com/r/programming/comments/velg5w/citus_11_for_postgres_goes_fully_open_source_with/",
-    "created": 1655848182501,
-    "title": "Citus 11 for Postgres goes fully open source, with query from any node (cross post from r/SQL) (575)",
+    "created": 1655851781850,
+    "title": "Citus 11 for Postgres goes fully open source, with query from any node (cross post from r/SQL) (582)",
     "content_text": ""
   },
   "vexzz0": {
     "id": "vexzz0",
     "url": "https://reddit.com/r/programming/comments/vexzz0/the_saddest_just_ship_it_story_ever/",
-    "created": 1655848182501,
-    "title": "The saddest \"Just Ship It\" story ever (952)",
+    "created": 1655851781850,
+    "title": "The saddest \"Just Ship It\" story ever (949)",
     "content_text": ""
   },
   "vfd3p2": {
     "id": "vfd3p2",
     "url": "https://reddit.com/r/programming/comments/vfd3p2/false_assumptions_programmers_make_about_maps/",
-    "created": 1655848182501,
-    "title": "False Assumptions Programmers Make About Maps (1041)",
+    "created": 1655851781850,
+    "title": "False Assumptions Programmers Make About Maps (1044)",
     "content_text": ""
   },
   "vfrb2b": {
@@ -198,29 +191,29 @@
   "vgez2b": {
     "id": "vgez2b",
     "url": "https://reddit.com/r/programming/comments/vgez2b/gaiman_programming_language_for_textbased_games/",
-    "created": 1655848182501,
-    "title": "Gaiman: Programming language for text-based games in browser (668)",
+    "created": 1655851781850,
+    "title": "Gaiman: Programming language for text-based games in browser (669)",
     "content_text": ""
   },
   "vgnj5e": {
     "id": "vgnj5e",
     "url": "https://reddit.com/r/programming/comments/vgnj5e/how_i_got_banned_for_life_from_spotify_banned/",
-    "created": 1655848182501,
-    "title": "How I got banned for life from Spotify - Banned (1248)",
+    "created": 1655851781850,
+    "title": "How I got banned for life from Spotify - Banned (1249)",
     "content_text": ""
   },
   "vgvt3m": {
     "id": "vgvt3m",
     "url": "https://reddit.com/r/programming/comments/vgvt3m/i_fucking_hate_jira/",
-    "created": 1655848182501,
-    "title": "I fucking hate Jira (1881)",
+    "created": 1655851781850,
+    "title": "I fucking hate Jira (1901)",
     "content_text": ""
   },
   "vhdly5": {
     "id": "vhdly5",
     "url": "https://reddit.com/r/programming/comments/vhdly5/cloudflare_outage_on_june_21_2022/",
-    "created": 1655848182501,
-    "title": "Cloudflare outage on June 21, 2022 (915)",
+    "created": 1655851781850,
+    "title": "Cloudflare outage on June 21, 2022 (1050)",
     "content_text": ""
   }
 }
