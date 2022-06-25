@@ -135,8 +135,8 @@
   "vfd3p2": {
     "id": "vfd3p2",
     "url": "https://reddit.com/r/programming/comments/vfd3p2/false_assumptions_programmers_make_about_maps/",
-    "created": 1656147067627,
-    "title": "False Assumptions Programmers Make About Maps (1046)",
+    "created": 1656150578087,
+    "title": "False Assumptions Programmers Make About Maps (1051)",
     "content_text": ""
   },
   "vfrb2b": {
@@ -149,22 +149,22 @@
   "vgez2b": {
     "id": "vgez2b",
     "url": "https://reddit.com/r/programming/comments/vgez2b/gaiman_programming_language_for_textbased_games/",
-    "created": 1656147067627,
-    "title": "Gaiman: Programming language for text-based games in browser (677)",
+    "created": 1656150578087,
+    "title": "Gaiman: Programming language for text-based games in browser (674)",
     "content_text": ""
   },
   "vgnj5e": {
     "id": "vgnj5e",
     "url": "https://reddit.com/r/programming/comments/vgnj5e/how_i_got_banned_for_life_from_spotify_banned/",
-    "created": 1656147067627,
-    "title": "How I got banned for life from Spotify - Banned (1271)",
+    "created": 1656150578087,
+    "title": "How I got banned for life from Spotify - Banned (1276)",
     "content_text": ""
   },
   "vgvt3m": {
     "id": "vgvt3m",
     "url": "https://reddit.com/r/programming/comments/vgvt3m/i_fucking_hate_jira/",
-    "created": 1656147067627,
-    "title": "I fucking hate Jira (1941)",
+    "created": 1656150578087,
+    "title": "I fucking hate Jira (1945)",
     "content_text": ""
   },
   "vhdly5": {
@@ -177,50 +177,57 @@
   "vhnvd2": {
     "id": "vhnvd2",
     "url": "https://reddit.com/r/programming/comments/vhnvd2/linus_torvalds_rust_for_the_kernel_could_possibly/",
-    "created": 1656147067627,
-    "title": "Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20 (773)",
+    "created": 1656150578087,
+    "title": "Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20 (765)",
     "content_text": ""
   },
   "vhnvlm": {
     "id": "vhnvlm",
     "url": "https://reddit.com/r/programming/comments/vhnvlm/github_copilot_turns_paid/",
-    "created": 1656147067627,
-    "title": "Github Copilot turns paid (731)",
+    "created": 1656150578087,
+    "title": "Github Copilot turns paid (725)",
     "content_text": ""
   },
   "vi4zmn": {
     "id": "vi4zmn",
     "url": "https://reddit.com/r/programming/comments/vi4zmn/the_overengineered_solution_to_my_pigeon_problem/",
-    "created": 1656147067627,
-    "title": "The overengineered Solution to my Pigeon Problem (806)",
+    "created": 1656150578087,
+    "title": "The overengineered Solution to my Pigeon Problem (803)",
     "content_text": ""
   },
   "vi8w0w": {
     "id": "vi8w0w",
     "url": "https://reddit.com/r/programming/comments/vi8w0w/stackoverflow_survey_2022_results/",
-    "created": 1656147067627,
-    "title": "Stackoverflow Survey 2022 Results (697)",
+    "created": 1656150578087,
+    "title": "Stackoverflow Survey 2022 Results (695)",
     "content_text": ""
   },
   "vit8xs": {
     "id": "vit8xs",
     "url": "https://reddit.com/r/programming/comments/vit8xs/yandex_open_sources_100b_gptlike_model/",
-    "created": 1656147067627,
-    "title": "Yandex open sources 100B GPT-like model (855)",
+    "created": 1656150578087,
+    "title": "Yandex open sources 100B GPT-like model (857)",
     "content_text": ""
   },
   "vim0bv": {
     "id": "vim0bv",
     "url": "https://reddit.com/r/programming/comments/vim0bv/c_vulnerability_found_in_newtonsoft_json_upgrade/",
-    "created": 1656147067627,
-    "title": "C# - Vulnerability found in Newtonsoft Json - Upgrade package to 13.0.1 (521)",
+    "created": 1656150578087,
+    "title": "C# - Vulnerability found in Newtonsoft Json - Upgrade package to 13.0.1 (525)",
     "content_text": ""
   },
   "vjfhro": {
     "id": "vjfhro",
     "url": "https://reddit.com/r/programming/comments/vjfhro/commit_1_to_1000_and_beyond_two_years_of/",
-    "created": 1656147067627,
-    "title": "Commit 1 to 1000 and beyond: Two years of maintaining an open-source project (843)",
+    "created": 1656150578087,
+    "title": "Commit 1 to 1000 and beyond: Two years of maintaining an open-source project (837)",
+    "content_text": ""
+  },
+  "vk4c2l": {
+    "id": "vk4c2l",
+    "url": "https://reddit.com/r/programming/comments/vk4c2l/amazon_launches_codewhisperer_a_github/",
+    "created": 1656150578087,
+    "title": "Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool (575)",
     "content_text": ""
   }
 }
