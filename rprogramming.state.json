@@ -1,11 +1,4 @@
 {
-  "vcspz9": {
-    "id": "vcspz9",
-    "url": "https://reddit.com/r/programming/comments/vcspz9/support_for_ie11_in_windows_10_ends_today/",
-    "created": 1655898590759,
-    "title": "Support for IE11 in Windows 10 ends today (1587)",
-    "content_text": ""
-  },
   "vdhwt2": {
     "id": "vdhwt2",
     "url": "https://reddit.com/r/programming/comments/vdhwt2/cloudflare_mitigates_26_million_request_per/",
@@ -135,64 +128,71 @@
   "vki4ov": {
     "id": "vki4ov",
     "url": "https://reddit.com/r/programming/comments/vki4ov/italy_declares_google_analytics_illegal/",
-    "created": 1656762581757,
+    "created": 1656767099076,
     "title": "Italy declares Google Analytics illegal (7033)",
     "content_text": ""
   },
   "vla3ds": {
     "id": "vla3ds",
     "url": "https://reddit.com/r/programming/comments/vla3ds/sorting_algorithms_visualized_with_blender/",
-    "created": 1656762581757,
-    "title": "Sorting algorithms visualized with Blender (2968)",
+    "created": 1656767099077,
+    "title": "Sorting algorithms visualized with Blender (2970)",
     "content_text": ""
   },
   "vm4cok": {
     "id": "vm4cok",
     "url": "https://reddit.com/r/programming/comments/vm4cok/what_makes_a_goodbad_commit_message/",
-    "created": 1656762581757,
-    "title": "What makes a good/bad commit (message) (974)",
+    "created": 1656767099077,
+    "title": "What makes a good/bad commit (message) (978)",
     "content_text": ""
   },
   "vm0nwy": {
     "id": "vm0nwy",
     "url": "https://reddit.com/r/programming/comments/vm0nwy/prql_02_a_modern_language_for_transforming_data_a/",
-    "created": 1656762581757,
-    "title": "PRQL 0.2 — a modern language for transforming data — a simple, powerful, pipelined SQL replacement. Now ready to use! (604)",
+    "created": 1656767099077,
+    "title": "PRQL 0.2 — a modern language for transforming data — a simple, powerful, pipelined SQL replacement. Now ready to use! (600)",
     "content_text": ""
   },
   "vmkmpj": {
     "id": "vmkmpj",
     "url": "https://reddit.com/r/programming/comments/vmkmpj/apples_claim_is_that_it_bans_other_browsers_for/",
-    "created": 1656762581757,
-    "title": "Apple’s claim is that it bans other browsers for security (2512)",
+    "created": 1656767099077,
+    "title": "Apple’s claim is that it bans other browsers for security (2514)",
     "content_text": ""
   },
   "vnfl62": {
     "id": "vnfl62",
     "url": "https://reddit.com/r/programming/comments/vnfl62/i_scraped_7m_programming_job_offers_for_8_months/",
-    "created": 1656762581757,
-    "title": "I scraped 7M programming job offers for 8 months and here are the most demanded programming languages (3923)",
+    "created": 1656767099077,
+    "title": "I scraped 7M programming job offers for 8 months and here are the most demanded programming languages (3932)",
     "content_text": ""
   },
   "vo6pl9": {
     "id": "vo6pl9",
     "url": "https://reddit.com/r/programming/comments/vo6pl9/learning_html_was_too_hard_so_i_made_a_compiler/",
-    "created": 1656762581757,
+    "created": 1656767099077,
     "title": "Learning HTML was too hard so I made a compiler instead (1018)",
     "content_text": ""
   },
   "vold1e": {
     "id": "vold1e",
     "url": "https://reddit.com/r/programming/comments/vold1e/dev_burnout_drastically_decreases_when_you/",
-    "created": 1656762581757,
+    "created": 1656767099077,
     "title": "\"Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.\" Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding. (2375)",
     "content_text": ""
   },
   "vozp2i": {
     "id": "vozp2i",
     "url": "https://reddit.com/r/programming/comments/vozp2i/software_freedom_conservancy_quits_github/",
-    "created": 1656762581757,
-    "title": "Software Freedom Conservancy Quits Github (981)",
+    "created": 1656767099077,
+    "title": "Software Freedom Conservancy Quits Github (989)",
+    "content_text": ""
+  },
+  "vpjq7y": {
+    "id": "vpjq7y",
+    "url": "https://reddit.com/r/programming/comments/vpjq7y/there_are_no_open_issues_or_pull_requests_on_flask/",
+    "created": 1656767099077,
+    "title": "There are no open issues or pull requests on Flask (538)",
     "content_text": ""
   }
 }
