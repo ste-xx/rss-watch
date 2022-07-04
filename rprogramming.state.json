@@ -1,11 +1,4 @@
 {
-  "ve31my": {
-    "id": "ve31my",
-    "url": "https://reddit.com/r/programming/comments/ve31my/continuous_unix_commit_history_from_1970_until/",
-    "created": 1656039186776,
-    "title": "Continuous Unix commit history from 1970 until today (965)",
-    "content_text": ""
-  },
   "velg5w": {
     "id": "velg5w",
     "url": "https://reddit.com/r/programming/comments/velg5w/citus_11_for_postgres_goes_fully_open_source_with/",
@@ -121,71 +114,71 @@
   "vm4cok": {
     "id": "vm4cok",
     "url": "https://reddit.com/r/programming/comments/vm4cok/what_makes_a_goodbad_commit_message/",
-    "created": 1656892182159,
-    "title": "What makes a good/bad commit (message) (978)",
+    "created": 1656903833131,
+    "title": "What makes a good/bad commit (message) (976)",
     "content_text": ""
   },
   "vm0nwy": {
     "id": "vm0nwy",
     "url": "https://reddit.com/r/programming/comments/vm0nwy/prql_02_a_modern_language_for_transforming_data_a/",
-    "created": 1656892182159,
-    "title": "PRQL 0.2 — a modern language for transforming data — a simple, powerful, pipelined SQL replacement. Now ready to use! (600)",
+    "created": 1656903833131,
+    "title": "PRQL 0.2 — a modern language for transforming data — a simple, powerful, pipelined SQL replacement. Now ready to use! (608)",
     "content_text": ""
   },
   "vmkmpj": {
     "id": "vmkmpj",
     "url": "https://reddit.com/r/programming/comments/vmkmpj/apples_claim_is_that_it_bans_other_browsers_for/",
-    "created": 1656892182159,
-    "title": "Apple’s claim is that it bans other browsers for security (2514)",
+    "created": 1656903833131,
+    "title": "Apple’s claim is that it bans other browsers for security (2523)",
     "content_text": ""
   },
   "vnfl62": {
     "id": "vnfl62",
     "url": "https://reddit.com/r/programming/comments/vnfl62/i_scraped_7m_programming_job_offers_for_8_months/",
-    "created": 1656892182159,
-    "title": "I scraped 7M programming job offers for 8 months and here are the most demanded programming languages (3943)",
+    "created": 1656903833131,
+    "title": "I scraped 7M programming job offers for 8 months and here are the most demanded programming languages (3946)",
     "content_text": ""
   },
   "vo6pl9": {
     "id": "vo6pl9",
     "url": "https://reddit.com/r/programming/comments/vo6pl9/learning_html_was_too_hard_so_i_made_a_compiler/",
-    "created": 1656892182159,
-    "title": "Learning HTML was too hard so I made a compiler instead (1029)",
+    "created": 1656903833131,
+    "title": "Learning HTML was too hard so I made a compiler instead (1022)",
     "content_text": ""
   },
   "vold1e": {
     "id": "vold1e",
     "url": "https://reddit.com/r/programming/comments/vold1e/dev_burnout_drastically_decreases_when_you/",
-    "created": 1656892182159,
-    "title": "\"Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.\" Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding. (2403)",
+    "created": 1656903833131,
+    "title": "\"Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.\" Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding. (2406)",
     "content_text": ""
   },
   "vozp2i": {
     "id": "vozp2i",
     "url": "https://reddit.com/r/programming/comments/vozp2i/software_freedom_conservancy_quits_github/",
-    "created": 1656892182159,
-    "title": "Software Freedom Conservancy Quits Github (1036)",
+    "created": 1656903833131,
+    "title": "Software Freedom Conservancy Quits Github (1032)",
     "content_text": ""
   },
   "vpjq7y": {
     "id": "vpjq7y",
     "url": "https://reddit.com/r/programming/comments/vpjq7y/there_are_no_open_issues_or_pull_requests_on_flask/",
-    "created": 1656892182159,
+    "created": 1656903833131,
     "title": "There are no open issues or pull requests on Flask (1420)",
     "content_text": ""
   },
   "vpsd0u": {
     "id": "vpsd0u",
     "url": "https://reddit.com/r/programming/comments/vpsd0u/is_your_project_manager_a_sith_lord_three_ways_to/",
-    "created": 1656892182159,
-    "title": "Is Your Project Manager A Sith Lord? Three Ways To Find Out. (904)",
+    "created": 1656903833131,
+    "title": "Is Your Project Manager A Sith Lord? Three Ways To Find Out. (907)",
     "content_text": ""
   },
   "vqh8lq": {
     "id": "vqh8lq",
     "url": "https://reddit.com/r/programming/comments/vqh8lq/the_regex_comma_dash_dot/",
-    "created": 1656892182159,
-    "title": "The regex comma dash dot [,-.] (769)",
+    "created": 1656903833131,
+    "title": "The regex comma dash dot [,-.] (898)",
     "content_text": ""
   }
 }
