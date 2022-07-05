@@ -118,6 +118,13 @@
     "title": "Launch YC (641)",
     "content_text": "The launchpad for YC startups"
   },
+  "351212": {
+    "id": "351212",
+    "url": "https://www.producthunt.com/posts/laserfocus?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1657040393671,
+    "title": "Laserfocus (356)",
+    "content_text": "Beautiful UX for Salesforce users"
+  },
   "351250": {
     "id": "351250",
     "url": "https://www.producthunt.com/posts/internxt-send?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -142,8 +149,8 @@
   "351431": {
     "id": "351431",
     "url": "https://www.producthunt.com/posts/ruttl-2?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1657035749883,
-    "title": "ruttl (601)",
+    "created": 1657040393671,
+    "title": "ruttl (653)",
     "content_text": "Collect visual feedback directly on websites, PDFs & images"
   },
   "351470": {
