@@ -90,6 +90,13 @@
     "title": "Via Protocol (1174)",
     "content_text": "All cross‑chain bridges and DEXs in one UI"
   },
+  "351834": {
+    "id": "351834",
+    "url": "https://www.producthunt.com/posts/siter-io?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1657545133144,
+    "title": "Siter.io (386)",
+    "content_text": "Freehand design tool, no-code website builder"
+  },
   "351855": {
     "id": "351855",
     "url": "https://www.producthunt.com/posts/the-social-app-2?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -103,5 +110,12 @@
     "created": 1657348955639,
     "title": "Daily 3pm Links (625)",
     "content_text": "The hidden gems for better link building opportunities"
+  },
+  "352054": {
+    "id": "352054",
+    "url": "https://www.producthunt.com/posts/10web-booster?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
+    "created": 1657545133144,
+    "title": "10Web Booster (421)",
+    "content_text": "Website optimization on any hosting"
   }
 }
