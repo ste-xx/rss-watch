@@ -27,20 +27,6 @@
     "title": "Ember Fund's NFT and Metaverse Indexes (628)",
     "content_text": "No gas fees and low investment mins, your keys, your crypto"
   },
-  "351855": {
-    "id": "351855",
-    "url": "https://www.producthunt.com/posts/the-social-app-2?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1657348955639,
-    "title": "The Social App (732)",
-    "content_text": "Launch a paid E2EE subscription group chat within seconds"
-  },
-  "351862": {
-    "id": "351862",
-    "url": "https://www.producthunt.com/posts/daily-3pm-links?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1657348955639,
-    "title": "Daily 3pm Links (625)",
-    "content_text": "The hidden gems for better link building opportunities"
-  },
   "352054": {
     "id": "352054",
     "url": "https://www.producthunt.com/posts/10web-booster?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
@@ -114,29 +100,29 @@
   "352489": {
     "id": "352489",
     "url": "https://www.producthunt.com/posts/locofy-ai?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1658210123488,
-    "title": "Locofy.ai (1011)",
+    "created": 1658213126526,
+    "title": "Locofy.ai (1035)",
     "content_text": "Turn Figma designs into code"
   },
   "352611": {
     "id": "352611",
     "url": "https://www.producthunt.com/posts/teta-cms?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1658210123488,
-    "title": "Teta CMS (649)",
+    "created": 1658213126526,
+    "title": "Teta CMS (730)",
     "content_text": "Low-code back-end solution to build amazing products"
   },
   "352633": {
     "id": "352633",
     "url": "https://www.producthunt.com/posts/streamalive?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1658210123488,
-    "title": "StreamAlive (693)",
+    "created": 1658213126526,
+    "title": "StreamAlive (725)",
     "content_text": "Ludicrously increase engagement on Zoom, Teams, YouTube Live"
   },
   "352686": {
     "id": "352686",
     "url": "https://www.producthunt.com/posts/clientdb?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+social_channel_notifier+%28ID%3A+7505%29",
-    "created": 1658210123488,
-    "title": "clientdb (684)",
+    "created": 1658213126526,
+    "title": "clientdb (706)",
     "content_text": "Build lightning fast apps with instantaneous interactions"
   }
 }
