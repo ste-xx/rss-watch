@@ -149,78 +149,78 @@
   "vzj3cu": {
     "id": "vzj3cu",
     "url": "https://reddit.com/r/programming/comments/vzj3cu/shamus_young_passed_away_his_incredibly_generous/",
-    "created": 1658447431290,
+    "created": 1658458954335,
     "title": "Shamus Young passed away. His incredibly generous and accessible programming blog is, IMO, The best introductory procedural world generation resource on the whole internet. Thank - You, Shamus - you inspired me. (2782)",
     "content_text": ""
   },
   "vzq212": {
     "id": "vzq212",
     "url": "https://reddit.com/r/programming/comments/vzq212/how_i_experience_the_web_today/",
-    "created": 1658447431290,
-    "title": "How I Experience the Web Today (1747)",
+    "created": 1658458954335,
+    "title": "How I Experience the Web Today (1749)",
     "content_text": ""
   },
   "w0g8oc": {
     "id": "w0g8oc",
     "url": "https://reddit.com/r/programming/comments/w0g8oc/1000x_speedup_on_interactive_mandelbrot_zooms/",
-    "created": 1658447431290,
+    "created": 1658458954335,
     "title": "1000x speedup on interactive Mandelbrot zooms: from C, to inline SSE assembly, to OpenMP for multiple cores, to CUDA, to pixel-reuse from previous frames, to inline AVX assembly... (767)",
     "content_text": ""
   },
   "w0f39y": {
     "id": "w0f39y",
     "url": "https://reddit.com/r/programming/comments/w0f39y/what_i_wish_someone_would_have_told_me_about/",
-    "created": 1658447431290,
-    "title": "What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late (656)",
+    "created": 1658458954335,
+    "title": "What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late (657)",
     "content_text": ""
   },
   "w0zmgf": {
     "id": "w0zmgf",
     "url": "https://reddit.com/r/programming/comments/w0zmgf/log4j_software_flaw_endemic_new_cyber_safety/",
-    "created": 1658447431290,
-    "title": "Log4j software flaw 'endemic,' new cyber safety panel says (914)",
+    "created": 1658458954335,
+    "title": "Log4j software flaw 'endemic,' new cyber safety panel says (921)",
     "content_text": ""
   },
   "w1eh2o": {
     "id": "w1eh2o",
     "url": "https://reddit.com/r/programming/comments/w1eh2o/chrome_users_beware_manifest_v3_is_deceitful_and/",
-    "created": 1658447431290,
-    "title": "Chrome Users Beware: Manifest V3 is Deceitful and Threatening (3090)",
+    "created": 1658458954335,
+    "title": "Chrome Users Beware: Manifest V3 is Deceitful and Threatening (3093)",
     "content_text": ""
   },
   "w22dd6": {
     "id": "w22dd6",
     "url": "https://reddit.com/r/programming/comments/w22dd6/facebook_starts_encrypting_links_to_prevent/",
-    "created": 1658447431290,
-    "title": "Facebook starts encrypting links to prevent browsers from stripping trackers (4435)",
+    "created": 1658458954335,
+    "title": "Facebook starts encrypting links to prevent browsers from stripping trackers (4433)",
     "content_text": ""
   },
   "w2thvo": {
     "id": "w2thvo",
     "url": "https://reddit.com/r/programming/comments/w2thvo/carbon_an_experimental_c_successor_language/",
-    "created": 1658447431290,
-    "title": "Carbon - an experimental C++ successor language (1796)",
+    "created": 1658458954335,
+    "title": "Carbon - an experimental C++ successor language (1797)",
     "content_text": ""
   },
   "w3oemy": {
     "id": "w3oemy",
     "url": "https://reddit.com/r/programming/comments/w3oemy/eu_digital_markets_act_aimed_at_google_apple/",
-    "created": 1658447431290,
-    "title": "EU Digital Markets Act, aimed at Google, Apple, Amazon, approved (1424)",
+    "created": 1658458954335,
+    "title": "EU Digital Markets Act, aimed at Google, Apple, Amazon, approved (1420)",
     "content_text": ""
   },
   "w3uope": {
     "id": "w3uope",
     "url": "https://reddit.com/r/programming/comments/w3uope/nothing_is_more_damaging_in_programming_right_now/",
-    "created": 1658447431290,
-    "title": "\"Nothing is more damaging in programming right now than the 'shipping at all costs' mantra. Not only does it create burnout factories, but it loads teams with tech debt that only the people who leave from burnout would be able to tackle.\" Amen to this. (3888)",
+    "created": 1658458954335,
+    "title": "\"Nothing is more damaging in programming right now than the 'shipping at all costs' mantra. Not only does it create burnout factories, but it loads teams with tech debt that only the people who leave from burnout would be able to tackle.\" Amen to this. (3906)",
     "content_text": ""
   },
   "w4chd3": {
     "id": "w4chd3",
     "url": "https://reddit.com/r/programming/comments/w4chd3/im_a_15_year_old_highschooler_it_has_very_basic/",
-    "created": 1658447431290,
-    "title": "I'm a 15 year old highschooler. It has very basic javascript but me and my father made it for my maths project. It is a Set Theory Calculator. I hope you like it. (738)",
+    "created": 1658458954335,
+    "title": "I'm a 15 year old highschooler. It has very basic javascript but me and my father made it for my maths project. It is a Set Theory Calculator. I hope you like it. (937)",
     "content_text": ""
   }
 }
